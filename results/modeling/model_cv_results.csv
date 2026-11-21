@@ -1,0 +1,4 @@
+Model,CV_RMSE,CV_RMSE_std,CV_R2,Best_Params
+Random Forest,27460.39,5555.61,0.8169,"{'max_depth': 15, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'n_estimators': 400}"
+Multiple Linear Regression,28956.73,5155.75,0.7905,{'fit_intercept': True}
+Decision Tree,32131.66,6289.78,0.7505,"{'max_depth': 15, 'min_samples_leaf': 2, 'min_samples_split': 10}"

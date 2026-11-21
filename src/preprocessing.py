@@ -12,7 +12,10 @@ import re
 import numpy as np
 import pandas as pd
 import joblib
-from IPython.display import display
+try:
+    from IPython.display import display
+except ImportError:
+    display = print
 from sklearn.model_selection import train_test_split
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
@@ -301,6 +304,9 @@ core_mapping = {
     'Hexa Core': 6,
     'Octa Core': 8
 }
+
+# Pastikan kolom CPU_Cores bertipe numerik agar dapat diisi dengan integer
+df_clean['CPU_Cores'] = pd.to_numeric(df_clean['CPU_Cores'], errors='coerce')
 
 for label, value in core_mapping.items():
     mask = df_clean['Core'].str.contains(label, case=False, na=False)
