@@ -1,0 +1,16 @@
+{
+  "Multiple Linear Regression": {
+    "fit_intercept": true
+  },
+  "Decision Tree": {
+    "max_depth": 15,
+    "min_samples_leaf": 2,
+    "min_samples_split": 10
+  },
+  "Random Forest": {
+    "max_depth": 15,
+    "max_features": "sqrt",
+    "min_samples_leaf": 1,
+    "n_estimators": 400
+  }
+}
