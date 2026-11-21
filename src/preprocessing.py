@@ -22,18 +22,40 @@ from sklearn.preprocessing import OneHotEncoder, StandardScaler
 pd.set_option("display.max_columns", None)
 pd.set_option("display.width", 160)
 
+
+# Lokasi utama proyek (satu tingkat di atas folder src)
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
 def parse_args():
-    parser = argparse.ArgumentParser(description="Preprocessing dataset harga laptop")
-    parser.add_argument("--data", default="laptop(1).csv", help="Path dataset CSV")
-    parser.add_argument("--output", default="output", help="Folder output")
+    parser = argparse.ArgumentParser(
+        description="Preprocessing dataset harga laptop"
+    )
+    parser.add_argument(
+        "--data",
+        type=Path,
+        default=PROJECT_ROOT / "data" / "raw" / "laptop(1).csv",
+        help="Path dataset CSV"
+    )
+    parser.add_argument(
+        "--output",
+        type=Path,
+        default=PROJECT_ROOT / "data" / "processed",
+        help="Folder output"
+    )
     return parser.parse_args()
 
 args = parse_args()
-DATA_PATH = Path(args.data)
-OUT_DIR = Path(args.output)
+
+DATA_PATH = args.data
+OUT_DIR = args.output
+
 OUT_DIR.mkdir(parents=True, exist_ok=True)
+
 if not DATA_PATH.exists():
-    raise FileNotFoundError(f"Dataset tidak ditemukan: {DATA_PATH.resolve()}\nLetakkan laptop(1).csv di folder proyek atau gunakan --data.")
+    raise FileNotFoundError(
+        f"Dataset tidak ditemukan: {DATA_PATH.resolve()}"
+    )
+
 
 print("\n[1/6] Membaca dataset")
 df = pd.read_csv(DATA_PATH)
