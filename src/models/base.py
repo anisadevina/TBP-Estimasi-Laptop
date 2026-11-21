@@ -88,9 +88,10 @@ def build_preprocessor(numeric_features: list,
 # Evaluasi
 # ─────────────────────────────────────────────────────────────
 def evaluate(y_true, y_pred) -> dict:
-    """Hitung MAE, RMSE, R², MAPE dari prediksi vs aktual."""
+    """Hitung MAE, MSE, RMSE, R², MAPE dari prediksi vs aktual."""
     return {
         "MAE":    round(mean_absolute_error(y_true, y_pred), 2),
+        "MSE":    round(mean_squared_error(y_true, y_pred), 2),
         "RMSE":   round(float(np.sqrt(mean_squared_error(y_true, y_pred))), 2),
         "R2":     round(r2_score(y_true, y_pred), 4),
         "MAPE_%": round(mean_absolute_percentage_error(y_true, y_pred) * 100, 2),
