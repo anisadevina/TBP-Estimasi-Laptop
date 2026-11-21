@@ -1,0 +1,737 @@
+RAM_GB,RAM_Type,Storage_GB,CPU_Brand,CPU_Class,CPU_Cores,CPU_Threads,GPU_Brand,GPU_Model,GPU_Type,VRAM_GB,Screen_Size,Touchscreen,OS,Warranty,Aspect_Ratio,Price
+8.0,LPDDR5,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,16.0,1,Windows 11,1 Year Warranty,1.6,94490.0
+16.0,DDR5,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,RX 6550M,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,79990.0
+16.0,DDR5,1024.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 4060,Dedicated,8.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,99990.0
+8.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,55490.0
+16.0,DDR4,1024.0,Intel Core,Core i5,6.0,12.0,NVIDIA,RTX 3050,Dedicated,4.0,,0,Unknown,Unknown,,52990.0
+8.0,DDR4,512.0,Intel Core,Core i5,4.0,8.0,Intel,Integrated Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,0.5625,24990.0
+64.0,DDR5,4096.0,Intel Core,Core i9,24.0,32.0,NVIDIA,RTX 3500,Dedicated,12.0,17.0,0,Windows 11,3 Year Warranty,1.6,519990.0
+4.0,LPDDR4X,64.0,Intel Celeron,Celeron,2.0,2.0,Intel,UHD Graphics,Integrated,,14.0,0,ChromeOS,1 Year Warranty,1.7777777777777777,14990.0
+16.0,LPDDR4X,512.0,Intel Core,Core i7,10.0,12.0,Intel,Iris Xe,Integrated,,13.3,1,Windows 11,1 Year Warranty,1.6,101990.0
+8.0,DDR4,512.0,Intel Core,Core i5,4.0,8.0,Intel,Integrated Graphics,Integrated,,14.1,0,Windows 11,1 Year Warranty,1.7777777777777777,29990.0
+16.0,LPDDR5,1024.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,14.0,1,Windows 11,1 Year Warranty,1.6,91190.0
+16.0,LPDDR5X,1024.0,Other,Core Ultra 7,12.0,14.0,Intel,Iris Xe,Integrated,,13.3,0,Windows 11,1 Year Warranty,1.6,129990.0
+16.0,DDR4,512.0,Intel Core,Core i5,4.0,8.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,43990.0
+16.0,,512.0,Kirin,Kirin,,,Unknown,Unknown,Unknown,,,0,Kirin OS,Unknown,,81999.0
+32.0,LPDDR5,1024.0,Other,Core Ultra 7,12.0,14.0,Intel,Integrated Graphics,Integrated,,14.0,1,Windows 11,1 Year Warranty,1.6,133999.0
+16.0,LPDDR5,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Radeon (Unspecified),Integrated,,14.0,1,Windows 11,1 Year Warranty,1.6,96990.0
+16.0,DDR4,512.0,Intel Core,Core i5,4.0,8.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,54900.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,35990.0
+8.0,DDR4,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,65990.0
+32.0,DDR5,1024.0,Intel Core,Core i9,24.0,32.0,NVIDIA,RTX 4090,Dedicated,16.0,17.3,0,Windows 11,1 Year Warranty,1.7777777777777777,339999.0
+16.0,DDR4,512.0,Intel Core,Core i5,12.0,16.0,NVIDIA,RTX 3050,Dedicated,4.0,14.0,0,Windows 11,1 Year Warranty,1.6,86990.0
+8.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,Integrated Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,31990.0
+16.0,DDR4,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,53990.0
+8.0,DDR4,512.0,Intel Core,Core i7,10.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,69990.0
+16.0,LPDDR5,512.0,AMD Ryzen,Ryzen 5,4.0,8.0,AMD,Radeon (Unspecified),Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,43990.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,68990.0
+16.0,DDR5,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,13.3,0,Windows 11,2 Year Warranty,1.7777777777777777,59806.0
+16.0,LPDDR4X,1024.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Radeon (Unspecified),Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,70990.0
+16.0,LPDDR4X,512.0,Intel Core,Core i7,10.0,12.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,81990.0
+16.0,DDR5,512.0,Intel Core,Core i5,12.0,16.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,73776.0
+8.0,DDR4,512.0,Intel Core,Core i5,6.0,12.0,NVIDIA,GTX 1650,Dedicated,4.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,41990.0
+32.0,DDR5,2048.0,Intel Core,Core i9,24.0,32.0,NVIDIA,RTX 4090,Dedicated,16.0,17.0,0,Windows 11,2 Year Warranty,1.6,344990.0
+32.0,LPDDR5X,1024.0,Other,Core Ultra 7,16.0,22.0,Intel,Arc,Dedicated,,14.0,1,Windows 11,1 Year Warranty,1.6,159990.0
+16.0,DDR4,1024.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,38249.0
+8.0,DDR4,256.0,Intel Celeron,Celeron,2.0,2.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7786458333333333,26490.0
+8.0,DDR4,1024.0,Intel Core,Core i5,4.0,8.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,44990.0
+16.0,DDR5,512.0,Intel Core,Core i7,10.0,16.0,NVIDIA,RTX 4060,Dedicated,8.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,109990.0
+16.0,LPDDR5,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Radeon (Unspecified),Integrated,,15.6,1,Windows 11,1 Year Warranty,1.7777777777777777,85600.0
+4.0,LPDDR4X,128.0,Intel Pentium,Pentium,4.0,4.0,Intel,UHD Graphics,Integrated,,14.0,0,ChromeOS,1 Year Warranty,1.7786458333333333,28190.0
+16.0,LPDDR5,512.0,AMD Ryzen,Ryzen 5,4.0,8.0,AMD,Radeon (Unspecified),Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,48990.0
+8.0,DDR4,256.0,Intel Celeron,Celeron,2.0,2.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows,1 Year Warranty,1.7777777777777777,23990.0
+16.0,LPDDR5X,1024.0,Other,Core Ultra 7,16.0,22.0,NVIDIA,RTX 4060,Dedicated,8.0,14.0,0,Windows 11,1 Year Warranty,1.6,174999.0
+16.0,DDR5,512.0,Intel Core,Core i7,10.0,16.0,NVIDIA,RTX 4050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,100190.0
+32.0,LPDDR5X,1024.0,Other,Core Ultra 7,16.0,22.0,Intel,Arc,Dedicated,,14.0,1,Windows 11,1 Year Warranty,1.6,159990.0
+8.0,LPDDR5,512.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,13.3,0,Windows 11,2 Year Warranty,1.6,77990.0
+32.0,LPDDR5,1024.0,Other,Core Ultra 7,16.0,22.0,NVIDIA,RTX 4050,Dedicated,6.0,16.0,0,Windows 11,2 Year Warranty,1.6,159990.0
+16.0,DDR5,512.0,Intel Core,Core i5,12.0,16.0,NVIDIA,RTX 3050,Dedicated,4.0,17.3,0,Windows 11,1 Year Warranty,1.7777777777777777,73990.0
+8.0,DDR4,512.0,Intel Celeron,Celeron,2.0,2.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7786458333333333,28990.0
+8.0,LPDDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,42990.0
+16.0,DDR4,512.0,Intel Core,Core i5,8.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,58990.0
+16.0,LPDDR5,512.0,Intel Core,Core i5,12.0,16.0,Intel,Arc,Dedicated,,14.0,0,Windows 11,1 Year Warranty,1.6,49990.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 5,4.0,8.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,50390.0
+16.0,LPDDR5,1024.0,Intel Core,Core i7,12.0,16.0,AMD,Radeon (Unspecified),Integrated,,14.0,1,Windows 11,1 Year Warranty,1.6,114190.0
+16.0,LPDDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,52990.0
+16.0,DDR5,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,69990.0
+16.0,DDR4,512.0,Intel Core,Core i5,6.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,50990.0
+16.0,LPDDR5,1024.0,Intel Core,Core i7,12.0,16.0,Intel,Iris Xe,Integrated,,13.3,1,Windows 11,1 Year Warranty,1.6,123190.0
+8.0,LPDDR5,512.0,Intel Core,Core i5,10.0,12.0,Intel,Integrated Graphics,Integrated,,14.0,1,Windows 11,1 Year Warranty,1.6,88990.0
+16.0,DDR4,512.0,Intel Core,Core i5,4.0,8.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,48990.0
+8.0,,512.0,Intel Core,Core i3,2.0,4.0,Intel,UHD Graphics,Integrated,,15.6,0,Ubuntu,1 Year Warranty,1.7777777777777777,35500.0
+16.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,60999.0
+16.0,LPDDR5,512.0,Intel Core,Core i5,8.0,12.0,Intel,UHD Graphics,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,62190.0
+16.0,,1024.0,Intel Core,Core i9,14.0,20.0,Intel,Iris Xe,Integrated,,14.2,1,Windows 11,1 Year Warranty,1.5,80999.0
+8.0,LPDDR5,512.0,AMD Ryzen,Ryzen 3,4.0,8.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,26989.0
+8.0,DDR4,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,51990.0
+8.0,DDR5,512.0,Intel Core,Core i5,12.0,16.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,70990.0
+8.0,DDR5,512.0,Intel Core,Core i5,8.0,12.0,Intel,Arc A530M,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,59990.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,63889.0
+36.0,,1024.0,Apple,Apple M3,14.0,,Apple,30-Core GPU,Integrated,,16.2,0,macOS,1 Year Warranty,1.5470008952551477,320690.0
+16.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,77990.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,RX 5600M,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,62687.0
+8.0,LPDDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,14.0,1,Windows 11,1 Year Warranty,1.7777777777777777,58400.0
+8.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,DOS,Unknown,1.7777777777777777,67900.0
+16.0,DDR4,512.0,Intel Core,Core i5,6.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,52990.0
+16.0,DDR4,1024.0,Intel Core,Core i7,10.0,16.0,NVIDIA,RTX 3050,Dedicated,4.0,16.0,0,Windows 11,1 Year Warranty,1.6,82990.0
+16.0,DDR5,512.0,Intel Core,Core i7,16.0,24.0,NVIDIA,RTX 4060,Dedicated,8.0,17.3,0,Windows 11,1 Year Warranty,1.7777777777777777,151990.0
+8.0,DDR4,256.0,Intel Core,Core i5,10.0,12.0,Intel,Integrated Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.8972222222222221,97300.0
+8.0,DDR4,512.0,Intel Core,Core i5,4.0,8.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,41400.0
+8.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,47890.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,34849.0
+32.0,DDR5,1024.0,Intel Core,Core i9,14.0,20.0,NVIDIA,RTX 4060,Dedicated,8.0,16.0,0,Windows 11,1 Year Warranty,1.6,148990.0
+16.0,DDR4,512.0,Intel Core,Core i7,6.0,12.0,NVIDIA,Unknown,Unknown,4.0,15.6,0,Windows 10,Unknown,1.6,184999.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,34990.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 3,2.0,4.0,AMD,Radeon (Unspecified),Integrated,,14.0,0,DOS,1 Year Warranty,1.7786458333333333,24900.0
+8.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,DOS,1 Year Warranty,1.7777777777777777,64390.0
+32.0,DDR5,1024.0,AMD Ryzen,Ryzen 9,8.0,16.0,NVIDIA,RTX 4060,Dedicated,8.0,14.0,0,Windows 11,1 Year Warranty,1.6,199990.0
+8.0,DDR4,256.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,32990.0
+16.0,LPDDR5,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 3050,Dedicated,4.0,16.0,0,Windows 11,3 Year Warranty,1.6,87774.0
+8.0,DDR4,256.0,Intel Celeron,Celeron,2.0,2.0,Intel,UHD Graphics,Integrated,,11.6,0,Windows 11,1 Year Warranty,1.7786458333333333,19990.0
+16.0,LPDDR5X,1024.0,Other,Core Ultra 7,16.0,22.0,Intel,Arc,Dedicated,,16.0,1,Windows 11,1 Year Warranty,1.6,179990.0
+16.0,DDR4,512.0,Intel Core,Core i5,4.0,8.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,47490.0
+16.0,DDR5,1024.0,Intel Core,Core i9,24.0,32.0,NVIDIA,RTX 4070,Dedicated,8.0,16.0,0,Windows 11,1 Year Warranty,1.6,179990.0
+8.0,DDR5,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,58900.0
+16.0,DDR5,1024.0,Intel Core,Core i5,10.0,16.0,NVIDIA,RTX 3050,Dedicated,6.0,16.0,0,Windows 11,1 Year Warranty,1.6,94990.0
+16.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,1,Windows 11,1 Year Warranty,1.7777777777777777,71990.0
+8.0,LPDDR5,512.0,Intel Core,Core i3,5.0,6.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,43590.0
+36.0,,512.0,Apple,Apple M3,12.0,,Apple,18-Core GPU,Integrated,,16.2,0,macOS,1 Year Warranty,1.5470008952551477,289900.0
+16.0,DDR4,512.0,Intel Core,Core i7,10.0,12.0,Unknown,Unknown,Unknown,,,0,Windows 11,Unknown,,95590.0
+16.0,LPDDR4X,512.0,Intel Core,Core i7,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,43990.0
+16.0,DDR4,512.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,69490.0
+16.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,Integrated Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,52499.0
+8.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,44990.0
+32.0,DDR5,1024.0,Intel Core,Core i7,14.0,20.0,NVIDIA,RTX 4090,Dedicated,16.0,16.0,0,Windows 11,1 Year Warranty,1.6,172990.0
+16.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,34990.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,15.6,0,DOS,1 Year Warranty,1.7777777777777777,32500.0
+16.0,DDR5,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,53490.0
+8.0,DDR4,512.0,Intel Core,Core i5,6.0,12.0,NVIDIA,GTX 1650,Dedicated,4.0,16.1,0,Windows 11,1 Year Warranty,1.7777777777777777,55999.0
+16.0,DDR4,512.0,Intel Core,Core i5,6.0,12.0,NVIDIA,GTX 1650,Dedicated,4.0,16.1,0,Windows 11,1 Year Warranty,1.7777777777777777,60200.0
+8.0,DDR4,256.0,Intel Core,Core i3,2.0,4.0,Intel,Integrated Graphics,Integrated,,14.1,0,Windows 11,1 Year Warranty,1.7777777777777777,22000.0
+32.0,DDR5,1024.0,Intel Core,Core i7,14.0,20.0,NVIDIA,RTX 4050,Dedicated,6.0,15.6,1,Windows 11,1 Year Warranty,1.6,249990.0
+16.0,DDR5,512.0,Intel Core,Core i7,10.0,16.0,NVIDIA,RTX 4060,Dedicated,8.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,89999.0
+8.0,LPDDR4X,128.0,Other,MediaTek,8.0,,ARM,Mali G52,Integrated,,14.0,1,ChromeOS,1 Year Warranty,1.7777777777777777,26990.0
+16.0,LPDDR5,512.0,Other,Core 7,10.0,12.0,Intel,Integrated Graphics,Integrated,,15.6,1,Windows 11,1 Year Warranty,1.7777777777777777,122990.0
+16.0,LPDDR5,1024.0,Intel Core,Core i7,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,218990.0
+16.0,DDR5,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 4060,Dedicated,8.0,16.0,0,Windows 11,1 Year Warranty,1.6,128990.0
+32.0,LPDDR5X,1024.0,Other,Core Ultra 7,16.0,22.0,Intel,Arc,Dedicated,,14.0,1,Windows 11,1 Year Warranty,1.6,171990.0
+16.0,DDR4,512.0,Intel Core,Core i7,10.0,16.0,NVIDIA,RTX 4050,Dedicated,6.0,15.0,0,Windows 11,2 Year Warranty,1.7777777777777777,69990.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,44990.0
+16.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,39990.0
+16.0,DDR4,512.0,Intel Core,Core i7,10.0,12.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,62842.0
+8.0,DDR4,512.0,Intel Core,Core i5,4.0,8.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 10,1 Year Warranty,1.7777777777777777,45990.0
+16.0,DDR4,512.0,Intel Core,Core i7,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,54010.0
+8.0,DDR5,512.0,Intel Core,Core i5,12.0,16.0,NVIDIA,RTX 3050,Dedicated,4.0,17.3,0,Windows 11,1 Year Warranty,1.7777777777777777,71990.0
+32.0,DDR5,1024.0,Intel Core,Core i9,14.0,20.0,NVIDIA,RTX 4070,Dedicated,8.0,16.0,0,Windows 11,2 Year Warranty,1.6,292990.0
+16.0,LPDDR5,1024.0,Other,Core Ultra 5,14.0,18.0,Intel,Arc,Dedicated,,14.0,0,Windows 11,1 Year Warranty,1.6,76990.0
+12.0,LPDDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,13.5,1,Windows 11,1 Year Warranty,1.5,27990.0
+8.0,DDR4,256.0,Apple,Apple M1,8.0,,Apple,Integrated Graphics,Integrated,,13.3,0,macOS,1 Year Warranty,1.6,79990.0
+16.0,LPDDR5,512.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,70190.0
+16.0,DDR4,1024.0,Intel Core,Core i5,10.0,12.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,66450.0
+16.0,DDR4,512.0,Intel Core,Core i7,12.0,16.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,84700.0
+16.0,DDR4,512.0,Intel Core,Core i7,14.0,20.0,NVIDIA,RTX 4050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,109490.0
+16.0,DDR5,1024.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 4060,Dedicated,8.0,17.3,0,Windows 11,1 Year Warranty,1.7777777777777777,107990.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 3,2.0,4.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,34000.0
+16.0,LPDDR4X,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,43990.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,71990.0
+8.0,DDR4,512.0,Intel Celeron,Celeron,2.0,2.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7786458333333333,30700.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Vega 8,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,58800.0
+16.0,DDR5,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,96700.0
+16.0,LPDDR5,512.0,Other,Core 5,10.0,12.0,Intel,Integrated Graphics,Integrated,,15.6,1,Windows 11,1 Year Warranty,1.7777777777777777,114990.0
+32.0,DDR5,1024.0,Intel Core,Core i7,14.0,20.0,NVIDIA,RTX (Unspecified),Dedicated,8.0,16.0,0,Windows 11,2 Year Warranty,1.6,249990.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,45490.0
+16.0,DDR4,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 4050,Dedicated,6.0,16.0,0,Windows 11,1 Year Warranty,1.6,76990.0
+16.0,DDR4,1024.0,Intel Core,Core i7,8.0,16.0,NVIDIA,RTX 3050 Ti,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,79899.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,49990.0
+8.0,DDR4,512.0,Intel Core,Core i3,2.0,4.0,Intel,UHD Graphics,Integrated,,15.6,1,Windows 11,1 Year Warranty,1.7777777777777777,31990.0
+16.0,DDR4,1024.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,72990.0
+32.0,DDR5,2048.0,Intel Core,Core i9,24.0,32.0,NVIDIA,RTX 4090,Dedicated,16.0,16.0,0,Windows 11,1 Year Warranty,1.6,329990.0
+16.0,DDR5,1024.0,Intel Core,Core i9,24.0,32.0,NVIDIA,RTX 4060,Dedicated,8.0,16.0,0,Windows 11,1 Year Warranty,1.6,178490.0
+16.0,LPDDR4,512.0,Intel Core,Core i7,4.0,8.0,Intel,Integrated Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,0.5625,59990.0
+16.0,DDR4,512.0,Intel Core,Core i5,6.0,12.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,62990.0
+16.0,DDR4,512.0,Intel Core,Core i7,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,96990.0
+16.0,DDR5,1024.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 4050,Dedicated,6.0,16.1,0,Windows 11,1 Year Warranty,1.7777777777777777,106590.0
+8.0,DDR4,256.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,32500.0
+32.0,DDR5,1024.0,Intel Core,Core i9,14.0,20.0,NVIDIA,RTX 4060,Dedicated,8.0,16.0,0,Windows 11,2 Year Warranty,1.6,219990.0
+8.0,LPDDR4X,512.0,Other,Core 5,10.0,12.0,Intel,Integrated Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,70990.0
+16.0,LPDDR5,512.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,80190.0
+8.0,LPDDR5,512.0,AMD Ryzen,Ryzen 3,4.0,8.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,DOS,1 Year Warranty,1.7777777777777777,27490.0
+16.0,DDR5,512.0,Intel Core,Core i7,16.0,24.0,NVIDIA,RTX 4060,Dedicated,8.0,16.1,0,Windows 11,1 Year Warranty,1.7777777777777777,153490.0
+16.0,DDR4,1024.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,60490.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,55490.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,16.0,1,Windows 11,1 Year Warranty,1.6,78299.0
+16.0,DDR4,512.0,Intel Core,Core i5,6.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,17.3,0,Windows 11,1 Year Warranty,1.7777777777777777,64990.0
+8.0,LPDDR5,512.0,Intel Core,Core i3,5.0,6.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,43990.0
+16.0,LPDDR4X,512.0,Other,Core 5,10.0,12.0,Intel,Integrated Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,75990.0
+16.0,DDR5,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 4060,Dedicated,8.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,116990.0
+16.0,LPDDR5,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,72990.0
+8.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,56990.0
+8.0,DDR4,512.0,Intel Core,Core i5,6.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,48990.0
+16.0,LPDDR4X,512.0,Intel Core,Core i5,8.0,12.0,Intel,UHD Graphics,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,46990.0
+32.0,LPDDR5X,1024.0,Other,Core Ultra 7,16.0,22.0,NVIDIA,RTX 4050,Dedicated,6.0,16.0,1,Windows 11,1 Year Warranty,1.6,195990.0
+16.0,LPDDR5,512.0,Intel Core,Core i5,8.0,12.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,59390.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 3,2.0,4.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,DOS,1 Year Warranty,1.7786458333333333,23999.0
+4.0,DDR4,256.0,Intel Celeron,Celeron,2.0,2.0,Intel,UHD Graphics,Integrated,,11.6,0,Windows 11,1 Year Warranty,1.7786458333333333,22490.0
+16.0,DDR5,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 4060,Dedicated,8.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,90990.0
+16.0,DDR4,512.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,52990.0
+16.0,,512.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,67990.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,Integrated Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7786458333333333,33900.0
+8.0,DDR5,512.0,Intel Core,Core i5,10.0,16.0,NVIDIA,RTX 3050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,73990.0
+32.0,LPDDR5X,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Radeon (Unspecified),Integrated,,14.0,0,Windows 11,3 Year Warranty,1.6,109990.0
+16.0,DDR5,1024.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Radeon (Unspecified),Integrated,,14.0,1,Windows 11,1 Year Warranty,1.6,94190.0
+8.0,DDR4,512.0,Intel Core,Core i3,2.0,4.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,35490.0
+16.0,DDR4,512.0,Intel Core,Core i3,2.0,4.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,35990.0
+16.0,LPDDR5X,1024.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Radeon 780M,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,88990.0
+8.0,,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,37990.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,47990.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,RX 6500M,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,52499.0
+8.0,LPDDR5,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,55800.0
+16.0,DDR4,512.0,Other,Ryzen 7,8.0,16.0,AMD,Radeon (Unspecified),Integrated,,14.0,0,Windows 10,1 Year Warranty,1.7777777777777777,90000.0
+16.0,DDR4,512.0,Intel Core,Core i3,2.0,4.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,35499.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,31990.0
+16.0,DDR4,1024.0,Intel Core,Core i7,10.0,16.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,3 Year Warranty,1.6,97990.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,NVIDIA,GTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,57400.0
+16.0,DDR4,512.0,Intel Core,Core i5,12.0,16.0,NVIDIA,MX 570,Dedicated,2.0,16.0,0,Windows 11,1 Year Warranty,1.7777777777777777,69190.0
+8.0,LPDDR4X,512.0,Intel Core,Core i5,4.0,8.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,25990.0
+16.0,DDR5,1024.0,Intel Core,Core i7,14.0,,NVIDIA,RTX 4050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,99990.0
+16.0,DDR4,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,65990.0
+8.0,DDR5,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,62500.0
+8.0,DDR4,256.0,Intel Core,Core i3,2.0,4.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,28990.0
+16.0,LPDDR5,1024.0,AMD Ryzen,Ryzen 9,8.0,16.0,NVIDIA,RTX 3050,Dedicated,4.0,13.4,1,Windows 11,1 Year Warranty,1.6,89990.0
+32.0,DDR5,1024.0,Intel Core,Core i9,24.0,32.0,NVIDIA,RTX 4080,Dedicated,12.0,16.0,0,Windows 11,1 Year Warranty,1.6,297758.0
+32.0,DDR5,2048.0,Intel Core,Core i7,14.0,20.0,NVIDIA,RTX 4070,Dedicated,8.0,17.3,0,Windows 11,2 Year Warranty,1.7777777777777777,210990.0
+32.0,LPDDR5X,1024.0,Intel Core,Core i9,14.0,20.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,74990.0
+16.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,50990.0
+16.0,DDR4,512.0,Intel Core,Core i7,10.0,16.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,59990.0
+16.0,DDR4,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,67990.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,39490.0
+8.0,DDR4,512.0,Intel Core,Core i3,2.0,4.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,31990.0
+16.0,DDR4,512.0,Intel Core,Core i7,4.0,8.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,56900.0
+16.0,LPDDR5,512.0,Intel Core,Core i5,8.0,12.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,59690.0
+4.0,LPDDR4X,64.0,Intel Celeron,Celeron,2.0,2.0,Intel,UHD Graphics,Integrated,,14.0,1,ChromeOS,1 Year Warranty,1.7777777777777777,25751.0
+8.0,LPDDR4,512.0,Intel Core,Core i3,4.0,8.0,Intel,Integrated Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,0.5625,24990.0
+16.0,DDR5,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 4050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,89990.0
+16.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,Integrated Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,32990.0
+16.0,DDR4,512.0,Intel Core,Core i5,6.0,12.0,NVIDIA,GTX 1650,Dedicated,4.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,44990.0
+16.0,DDR5,1024.0,Intel Core,Core i7,14.0,20.0,NVIDIA,RTX 3070 Ti,Dedicated,8.0,16.0,0,Windows 11,1 Year Warranty,1.6,261921.0
+16.0,DDR5,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,59990.0
+16.0,DDR5,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 4050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,77990.0
+16.0,LPDDR5X,1024.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,81400.0
+16.0,LPDDR5,512.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,63700.0
+16.0,DDR5,1024.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 4050,Dedicated,6.0,17.3,0,Windows 11,1 Year Warranty,1.7777777777777777,94990.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,46150.0
+16.0,DDR5,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 4060,Dedicated,8.0,16.0,0,Windows 11,1 Year Warranty,1.6,129990.0
+16.0,DDR5,1024.0,Intel Core,Core i7,10.0,16.0,NVIDIA,RTX 4060,Dedicated,8.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,94990.0
+8.0,DDR4,512.0,Intel Core,Core i5,6.0,12.0,NVIDIA,GTX 1650,Dedicated,4.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,41990.0
+16.0,DDR4,1024.0,Intel Core,Core i5,6.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,,0,Unknown,Unknown,,56990.0
+16.0,DDR5,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,NVIDIA,RTX 4050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,77990.0
+4.0,DDR4,256.0,Intel Celeron,Celeron,2.0,2.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,15990.0
+16.0,DDR5,1024.0,Intel Core,Core i7,14.0,20.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,84990.0
+16.0,LPDDR4X,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,14.0,1,Windows 11,1 Year Warranty,1.6,62990.0
+16.0,DDR4,1024.0,Intel Core,Core i7,10.0,16.0,NVIDIA,RTX 4050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,90990.0
+16.0,LPDDR5,1024.0,Intel Core,Core i7,12.0,16.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,86730.0
+16.0,DDR4,512.0,Intel Core,Core i5,12.0,16.0,NVIDIA,RTX 4050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,99990.0
+16.0,DDR4,1024.0,Intel Core,Core i7,14.0,20.0,NVIDIA,RTX 3050,Dedicated,6.0,16.0,0,Windows 11,1 Year Warranty,1.6,124999.0
+16.0,DDR4,1024.0,Intel Core,Core i7,10.0,16.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,68990.0
+16.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,51990.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,51980.0
+32.0,LPDDR5,2048.0,Intel Core,Core i9,14.0,20.0,NVIDIA,RTX 4090,Dedicated,16.0,16.0,0,Windows 11,1 Year Warranty,1.7777777777777777,453990.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,33790.0
+16.0,LPDDR5,512.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,13.3,0,Windows 11,1 Year Warranty,0.5625,69990.0
+16.0,LPDDR4X,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,1,Windows 11,1 Year Warranty,1.6,73990.0
+16.0,DDR4,1024.0,Intel Core,Core i9,14.0,20.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,78990.0
+32.0,DDR5,1024.0,Intel Core,Core i7,16.0,24.0,NVIDIA,RTX 4060,Dedicated,8.0,16.0,0,Windows 11,2 Year Warranty,1.6,219990.0
+8.0,DDR4,512.0,Intel Core,Core i5,4.0,8.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,50990.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,35999.0
+16.0,DDR4,1024.0,AMD Ryzen,Ryzen 5,6.0,12.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,55990.0
+16.0,,512.0,Intel Core,Core i5,8.0,12.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,59990.0
+8.0,DDR4,512.0,Intel Core,Core i3,2.0,4.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,31990.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,36990.0
+16.0,DDR4,1024.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,66990.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,40490.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,Integrated Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7786458333333333,34990.0
+16.0,DDR5,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,56490.0
+32.0,DDR5,1024.0,Other,Core Ultra 7,16.0,22.0,NVIDIA,RTX 4060,Dedicated,8.0,16.0,0,Windows 11,2 Year Warranty,1.6,199990.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Unknown,Unknown,,14.0,0,Windows 10,1 Year Warranty,1.7777777777777777,79999.0
+8.0,,1024.0,Apple,Apple M3,8.0,,Apple,10-Core GPU,Integrated,,14.2,0,macOS,1 Year Warranty,1.539714867617108,176490.0
+16.0,LPDDR4X,512.0,Intel Core,Core i5,8.0,12.0,Intel,UHD Graphics,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,79990.0
+16.0,DDR4,1024.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,70490.0
+8.0,DDR4,256.0,Intel Core,Core i3,8.0,8.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,31899.0
+16.0,DDR5,512.0,Intel Core,Core i5,10.0,16.0,NVIDIA,RTX 3050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,78990.0
+32.0,DDR5,1024.0,Intel Core,Core i9,24.0,32.0,NVIDIA,RTX 4090,Dedicated,16.0,16.0,0,Windows 11,1 Year Warranty,1.6,399999.0
+16.0,LPDDR5,1024.0,Intel Core,Core i5,8.0,12.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,74190.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,51990.0
+16.0,LPDDR5,1024.0,Intel Core,Core i7,10.0,12.0,Intel,Iris Xe,Integrated,,15.6,1,Windows 11,1 Year Warranty,1.7777777777777777,117000.0
+16.0,LPDDR5,1024.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,71990.0
+8.0,LPDDR5,512.0,AMD Ryzen,Ryzen 5,4.0,8.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,31990.0
+16.0,DDR5,1024.0,Intel Core,Core i7,10.0,16.0,NVIDIA,RTX 4060,Dedicated,8.0,16.0,0,Windows 11,1 Year Warranty,1.6,139190.0
+32.0,DDR5,2048.0,Other,Core Ultra 9,16.0,22.0,NVIDIA,RTX 4060,Dedicated,8.0,16.0,0,Windows 11,2 Year Warranty,1.6,249990.0
+16.0,DDR4,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,GTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,57990.0
+8.0,DDR4,512.0,Intel Celeron,Celeron,2.0,2.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows,1 Year Warranty,1.7786458333333333,27490.0
+16.0,LPDDR4X,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,59990.0
+16.0,DDR4,512.0,Intel Core,Core i5,4.0,8.0,NVIDIA,GTX 1650,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,52000.0
+16.0,DDR5,512.0,Intel Core,Core i5,10.0,16.0,NVIDIA,RTX 3050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,84990.0
+4.0,DDR4,128.0,Intel Celeron,Celeron,2.0,2.0,Intel,UHD Graphics,Integrated,,14.1,0,Windows 11,1 Year Warranty,1.7777777777777777,12990.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,63990.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,37990.0
+16.0,LPDDR5,1024.0,Intel Core,Core i7,14.0,20.0,Intel,Iris Xe,Integrated,,14.5,0,Windows 11,1 Year Warranty,1.6,104900.0
+16.0,LPDDR4X,512.0,Intel Core,Core i5,4.0,8.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,33990.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,36349.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,61712.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,35890.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,32490.0
+16.0,LPDDR4X,512.0,Intel Core,Core i7,10.0,12.0,Intel,Iris Xe,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,52990.0
+16.0,DDR4,1024.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,65690.0
+64.0,DDR5,2048.0,Intel Core,Core i9,24.0,,NVIDIA,RTX 3000,Dedicated,8.0,16.0,0,Windows 11,2 Year Warranty,1.6,409990.0
+16.0,LPDDR5,1024.0,Intel Core,Core i7,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,81990.0
+8.0,DDR4,512.0,Intel Core,Core i5,4.0,8.0,Intel,UHD Graphics,Integrated,,14.0,0,Ubuntu,1 Year Warranty,1.7786458333333333,37890.0
+16.0,LPDDR5X,512.0,Other,Core Ultra 5,14.0,18.0,Intel,Arc,Dedicated,,14.0,0,Windows 11,1 Year Warranty,1.6,79799.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Radeon (Unspecified),Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,56490.0
+16.0,DDR5,512.0,Intel Core,Core i7,10.0,16.0,NVIDIA,RTX 3050,Dedicated,6.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,85990.0
+16.0,DDR4,1024.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 4050,Dedicated,6.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,91990.0
+4.0,LPDDR4X,128.0,Intel Celeron,Celeron,4.0,4.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,18990.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,NVIDIA,GTX 1650,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,63590.0
+16.0,LPDDR5X,512.0,Intel Core,Core i7,12.0,16.0,NVIDIA,RTX (Unspecified),Dedicated,4.0,14.0,0,Windows 11,3 Year Warranty,1.6,129990.0
+32.0,DDR5,1024.0,Intel Core,Core i7,20.0,28.0,NVIDIA,RTX 4070,Dedicated,8.0,16.0,0,Windows 11,2 Year Warranty,1.6,197990.0
+8.0,DDR4,512.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,48990.0
+8.0,DDR4,512.0,Intel Core,Core i5,6.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,17.0,0,Windows 11,1 Year Warranty,1.7777777777777777,51990.0
+32.0,DDR5,2048.0,Intel Core,Core i9,24.0,32.0,NVIDIA,RTX 4080,Dedicated,12.0,17.0,0,Windows 11,2 Year Warranty,1.6,279990.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,RX 6500M,Dedicated,4.0,15.6,1,Windows 11,1 Year Warranty,1.7777777777777777,50399.0
+16.0,LPDDR4X,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows,1 Year Warranty,1.7777777777777777,49990.0
+16.0,LPDDR4X,1024.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Radeon (Unspecified),Integrated,,13.3,1,Windows 11,1 Year Warranty,1.6,86190.0
+16.0,DDR5,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,NVIDIA,RTX 3050,Dedicated,6.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,74990.0
+16.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,40990.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,40739.0
+32.0,LPDDR5X,1024.0,Other,Core Ultra 5,14.0,18.0,Intel,Arc,Dedicated,,16.0,0,Windows 11,1 Year Warranty,1.6,69990.0
+16.0,DDR5,1024.0,Intel Core,Core i7,14.0,,NVIDIA,RTX 3050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,101990.0
+32.0,DDR5,1024.0,Intel Core,Core i9,14.0,20.0,NVIDIA,RTX 3060,Dedicated,6.0,16.0,0,Windows 11,1 Year Warranty,1.6,292347.0
+16.0,LPDDR5X,512.0,Intel Core,Core i7,12.0,16.0,NVIDIA,RTX (Unspecified),Dedicated,4.0,14.0,0,Windows 11,3 Year Warranty,1.6,109990.0
+8.0,LPDDR5,512.0,AMD Athlon,Athlon,2.0,2.0,AMD,Radeon 610M,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7786458333333333,26990.0
+16.0,DDR5,1024.0,Other,Core Ultra 7,16.0,22.0,NVIDIA,RTX 4050,Dedicated,6.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,107990.0
+16.0,LPDDR5,512.0,Intel Core,Core i7,14.0,20.0,Intel,Iris Xe,Integrated,,16.0,0,Windows 11,2 Year Warranty,1.6,90000.0
+16.0,DDR4,512.0,Intel Core,Core i5,4.0,8.0,NVIDIA,MX 450,Dedicated,2.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,64799.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,49990.0
+16.0,DDR4,1024.0,AMD Ryzen,Ryzen 5,6.0,12.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,69990.0
+16.0,DDR4,1024.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,55990.0
+16.0,LPDDR5X,512.0,Other,Core Ultra 9,16.0,22.0,Intel,Arc,Dedicated,,14.0,0,Windows 11,1 Year Warranty,1.6,149990.0
+16.0,DDR4,512.0,Intel Core,Core i7,10.0,16.0,NVIDIA,RTX 4060,Dedicated,8.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,97990.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,14.0,1,Windows 11,1 Year Warranty,1.7777777777777777,54990.0
+16.0,DDR5,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 4050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,85990.0
+8.0,LPDDR5,512.0,AMD Ryzen,Ryzen 3,4.0,8.0,AMD,Radeon (Unspecified),Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,33990.0
+8.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,45490.0
+16.0,DDR5,1024.0,Intel Core,Core i7,16.0,24.0,NVIDIA,RTX 4060,Dedicated,8.0,16.1,0,Windows 11,1 Year Warranty,1.7777777777777777,126499.0
+16.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7786458333333333,79000.0
+16.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,55990.0
+16.0,DDR5,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 4050,Dedicated,6.0,16.1,0,Windows 11,1 Year Warranty,1.7777777777777777,90990.0
+8.0,DDR4,256.0,Intel Celeron,Celeron,2.0,2.0,Intel,UHD Graphics,Integrated,,14.1,0,Windows 11,1 Year Warranty,1.7786458333333333,15990.0
+8.0,DDR5,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,63990.0
+16.0,DDR5,1024.0,Intel Core,Core i5,10.0,16.0,NVIDIA,RTX 3050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,82490.0
+8.0,DDR4,256.0,Intel Celeron,Celeron,2.0,2.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,19299.0
+16.0,DDR4,512.0,Intel Core,Core i7,14.0,20.0,NVIDIA,RTX 4060,Dedicated,8.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,99990.0
+16.0,DDR4,1024.0,Intel Core,Core i7,12.0,16.0,Intel,UHD Graphics,Integrated,,16.0,0,Windows 11,3 Year Warranty,1.6,135999.0
+16.0,DDR4,512.0,Intel Core,Core i5,12.0,16.0,Intel,Integrated Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,68990.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,RX 6500M,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,59990.0
+8.0,LPDDR5,512.0,AMD Ryzen,Ryzen 5,4.0,8.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,44890.0
+32.0,DDR5,1024.0,Intel Core,Core i9,14.0,20.0,NVIDIA,RTX 3080 Ti,Dedicated,12.0,16.0,0,Windows 11,1 Year Warranty,1.6,390914.0
+16.0,DDR6,512.0,Intel Core,Core i5,6.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,17.3,0,Windows 11,1 Year Warranty,1.7777777777777777,65990.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 3060,Dedicated,6.0,16.0,0,Windows 11,1 Year Warranty,1.6,103395.0
+8.0,DDR4,512.0,Intel Core,Core i5,6.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,47990.0
+8.0,LPDDR5,512.0,Intel Core,Core i3,5.0,6.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,43990.0
+4.0,,64.0,Other,,8.0,,Unknown,Unknown,Unknown,,,0,Unknown,Unknown,,14999.0
+8.0,DDR5,512.0,Intel Core,Core i7,10.0,16.0,NVIDIA,RTX 3050,Dedicated,6.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,82990.0
+16.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,53799.0
+16.0,,512.0,Apple,Apple M3,8.0,,Apple,10-Core GPU,Integrated,,15.3,0,macOS,1 Year Warranty,1.5450643776824033,174900.0
+16.0,DDR5,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 3050,Dedicated,6.0,14.0,0,Windows 11,1 Year Warranty,1.6,89990.0
+16.0,LPDDR5,512.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,13.3,1,Windows 11,1 Year Warranty,0.5625,72990.0
+8.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,42490.0
+16.0,DDR4,512.0,Intel Core,Core i5,4.0,8.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,3 Year Warranty,1.7777777777777777,65000.0
+16.0,DDR5,512.0,Intel Core,Core i5,10.0,16.0,NVIDIA,RTX 3050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,79990.0
+8.0,,256.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,32990.0
+8.0,LPDDR5,512.0,AMD Ryzen,Ryzen 3,4.0,8.0,AMD,Radeon 610M,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,32290.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,RX 6500M,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,48990.0
+8.0,DDR4,512.0,Intel Core,Core i5,4.0,8.0,Intel,UHD Graphics,Integrated,,14.0,0,DOS,1 Year Warranty,1.7786458333333333,45990.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,38990.0
+16.0,LPDDR5,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,15.6,1,Windows 11,1 Year Warranty,1.7777777777777777,78490.0
+16.0,DDR4,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,GTX 1650,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,54189.0
+16.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,64990.0
+16.0,DDR4,1024.0,Intel Core,Core i7,4.0,8.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,53499.0
+16.0,,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 4050,Dedicated,6.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,71990.0
+16.0,LPDDR4,512.0,Intel Core,Core i5,4.0,8.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,32999.0
+16.0,LPDDR5X,512.0,Other,Core Ultra 7,16.0,22.0,Intel,Arc,Dedicated,,16.0,1,Windows 11,1 Year Warranty,1.6,199990.0
+8.0,LPDDR4X,512.0,Intel Core,Core i3,6.0,8.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,29990.0
+16.0,DDR4,512.0,Intel Core,Core i5,8.0,12.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,59990.0
+8.0,DDR4,512.0,Intel Core,Core i3,2.0,4.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,32390.0
+16.0,DDR5,1024.0,Intel Core,Core i7,10.0,16.0,NVIDIA,RTX 4060,Dedicated,8.0,17.3,0,Windows 11,2 Year Warranty,1.7777777777777777,110990.0
+8.0,LPDDR5,512.0,Intel Core,Core i5,10.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,54990.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,14.0,0,DOS,1 Year Warranty,1.7777777777777777,47999.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,69990.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,58500.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,48990.0
+8.0,DDR4,256.0,Apple,Apple M2,8.0,,Apple,8-Core GPU,Integrated,,13.6,0,macOS,1 Year Warranty,1.5384615384615385,99900.0
+16.0,LPDDR5X,512.0,Other,Core Ultra 5,14.0,18.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,2 Year Warranty,1.6,59990.0
+16.0,DDR4,512.0,Intel Core,Core i5,4.0,8.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,49999.0
+32.0,LPDDR5,1024.0,Other,Core Ultra 7,16.0,22.0,NVIDIA,RTX 4060,Dedicated,8.0,16.0,0,Windows 11,2 Year Warranty,1.6,169990.0
+8.0,DDR4,1024.0,Intel Core,Core i3,5.0,6.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,51000.0
+16.0,DDR4,512.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,52990.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,31990.0
+32.0,LPDDR5X,1024.0,Other,Core Ultra 7,12.0,14.0,Intel,Iris Xe,Integrated,,13.3,0,Windows 11,1 Year Warranty,1.6,139990.0
+16.0,DDR4,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,14.0,0,Windows 11,1 Year Warranty,1.6,64990.0
+16.0,,512.0,Intel Core,Core i7,,,Unknown,Unknown,Unknown,,,0,Windows 11,Unknown,,104990.0
+8.0,LPDDR5,256.0,Intel Celeron,Celeron,4.0,4.0,Intel,UHD Graphics,Integrated,,14.1,0,Windows 11,1 Year Warranty,1.7777777777777777,20990.0
+16.0,DDR4,512.0,Intel Core,Core i7,10.0,16.0,NVIDIA,RTX 2050,Dedicated,4.0,16.0,0,Windows 11,1 Year Warranty,1.6,88990.0
+32.0,DDR5,1024.0,Intel Core,Core i9,24.0,32.0,NVIDIA,RTX 4080,Dedicated,12.0,16.0,0,Windows 11,2 Year Warranty,1.6,284990.0
+8.0,DDR5,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 4060,Dedicated,8.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,89999.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,RX 6500M,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,50990.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 3,4.0,8.0,AMD,Radeon (Unspecified),Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,42990.0
+16.0,DDR4,1024.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,62990.0
+16.0,DDR5,512.0,Intel Core,Core i7,14.0,,NVIDIA,RTX 4050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,122638.0
+4.0,DDR4,256.0,AMD Athlon,Athlon,2.0,2.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,DOS,1 Year Warranty,1.7786458333333333,19979.0
+4.0,DDR4,128.0,Intel Celeron,Celeron,2.0,2.0,Intel,UHD Graphics,Integrated,,14.1,0,Windows 11,1 Year Warranty,1.7777777777777777,12990.0
+16.0,LPDDR5,512.0,Intel Core,Core i7,10.0,12.0,Intel,Iris Xe,Integrated,,13.3,1,Windows 11,1 Year Warranty,1.7777777777777777,129900.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,73990.0
+16.0,DDR4,512.0,Intel Core,Core i9,14.0,20.0,Intel,Iris Xe,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,77990.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 3,4.0,8.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,26749.0
+16.0,LPDDR5,1024.0,Intel Core,Core i7,10.0,12.0,Intel,Iris Xe,Integrated,,17.0,1,Windows 11,1 Year Warranty,0.75,415000.0
+16.0,DDR5,512.0,Intel Core,Core i5,12.0,16.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,69999.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 3,2.0,4.0,AMD,Radeon (Unspecified),Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7786458333333333,25994.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Radeon (Unspecified),Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,52990.0
+16.0,DDR5,512.0,Intel Core,Core i7,10.0,12.0,Intel,Iris Xe,Integrated,,13.3,0,Windows 11,2 Year Warranty,1.7777777777777777,69990.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,56190.0
+16.0,DDR5,512.0,Intel Core,Core i5,10.0,16.0,NVIDIA,RTX 3050,Dedicated,6.0,16.0,0,Windows 11,1 Year Warranty,1.6,92990.0
+8.0,LPDDR4X,128.0,Other,MediaTek,8.0,,ARM,Mali G52,Integrated,,14.0,0,ChromeOS,1 Year Warranty,1.7786458333333333,17990.0
+16.0,LPDDR5,512.0,Intel Core,Core i7,14.0,20.0,Intel,Iris Xe,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.7777777777777777,84190.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,37490.0
+8.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,UHD Graphics,Integrated,,14.0,0,DOS,1 Year Warranty,1.7777777777777777,43490.0
+16.0,DDR4,512.0,Intel Core,Core i5,6.0,12.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,51990.0
+8.0,LPDDR5,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,59290.0
+16.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,52000.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,36990.0
+16.0,DDR5,1024.0,Other,Core Ultra 5,14.0,18.0,NVIDIA,RTX 4050,Dedicated,6.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,99990.0
+16.0,LPDDR5,512.0,AMD Ryzen,Ryzen 9,8.0,16.0,NVIDIA,RTX 3050,Dedicated,4.0,13.4,1,Windows 11,1 Year Warranty,1.6,84990.0
+16.0,DDR4,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,67990.0
+16.0,DDR4,512.0,Intel Core,Core i7,10.0,16.0,NVIDIA,RTX 4050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,94490.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 5,4.0,8.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,46490.0
+8.0,DDR4,512.0,Intel Celeron,Celeron,2.0,2.0,Intel,UHD Graphics,Integrated,,15.0,0,Windows 11,1 Year Warranty,1.7786458333333333,27490.0
+32.0,DDR5,2048.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Radeon 680M,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,79999.0
+16.0,DDR5,1024.0,Intel Core,Core i7,14.0,20.0,NVIDIA,RTX 4050,Dedicated,6.0,15.6,1,Windows 11,1 Year Warranty,1.6,229990.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,14.0,0,DOS,1 Year Warranty,1.7777777777777777,27799.0
+8.0,LPDDR5,512.0,AMD Ryzen,Ryzen 5,4.0,8.0,AMD,Radeon (Unspecified),Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,43400.0
+16.0,DDR4,512.0,Intel Core,Core i5,6.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,51490.0
+16.0,DDR4,512.0,Intel Core,Core i7,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,1,Windows 11,1 Year Warranty,1.7777777777777777,89990.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows,1 Year Warranty,1.7777777777777777,49990.0
+16.0,DDR4,512.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,69990.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,48990.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,59700.0
+8.0,,512.0,Apple,Apple M3,8.0,,Apple,10-Core GPU,Integrated,,14.2,0,macOS,1 Year Warranty,1.539714867617108,154990.0
+16.0,DDR5,1024.0,Intel Core,Core i7,16.0,24.0,NVIDIA,RTX 4060,Dedicated,8.0,17.3,0,Windows 11,1 Year Warranty,1.7777777777777777,156990.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,35490.0
+16.0,DDR5,1024.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 3050,Dedicated,4.0,16.1,0,Windows 11,1 Year Warranty,1.7777777777777777,81990.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,RX 6500M,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,54559.0
+32.0,DDR5,2048.0,AMD Ryzen,Ryzen 9,12.0,24.0,NVIDIA,RTX 4080,Dedicated,12.0,16.0,0,Windows 11,1 Year Warranty,1.6,303290.0
+16.0,,1024.0,Snapdragon,Snapdragon,,,Unknown,Unknown,Unknown,,,0,Windows 11,Unknown,,162990.0
+32.0,DDR5,1024.0,Other,Core Ultra 7,16.0,22.0,NVIDIA,RTX 4060,Dedicated,8.0,15.6,0,Windows 11,2 Year Warranty,1.6,229990.0
+16.0,LPDDR5,512.0,Intel Core,Core i7,12.0,16.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,0.625,117899.0
+8.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7786458333333333,108000.0
+16.0,DDR4,512.0,Intel Core,Core i7,10.0,12.0,Intel,Integrated Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,40990.0
+16.0,DDR5,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,65990.0
+16.0,LPDDR5,1024.0,Intel Core,Core i5,8.0,12.0,Intel,Integrated Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,62990.0
+16.0,LPDDR5,512.0,Other,Core Ultra 7,12.0,14.0,Intel,Integrated Graphics,Integrated,,14.0,1,Windows 11,1 Year Warranty,1.6,108999.0
+16.0,DDR4,1024.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Vega 8,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,69990.0
+32.0,DDR5,1024.0,Intel Core,Core i9,24.0,32.0,NVIDIA,RTX 4070,Dedicated,8.0,16.0,0,Windows 11,1 Year Warranty,1.6,149990.0
+8.0,DDR4,512.0,Intel Core,Core i5,4.0,8.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,62999.0
+8.0,DDR4,512.0,Apple,Apple M2,8.0,,Apple,10-Core GPU,Integrated,,15.3,0,macOS,1 Year Warranty,1.5450643776824033,131590.0
+16.0,DDR5,1024.0,Intel Core,Core i7,14.0,20.0,NVIDIA,RTX 3060,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,99890.0
+16.0,LPDDR5,512.0,AMD Ryzen,Ryzen 5,4.0,8.0,AMD,Radeon (Unspecified),Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,47990.0
+16.0,DDR4,1024.0,AMD Ryzen,Ryzen 9,8.0,16.0,NVIDIA,RTX 4050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,137990.0
+16.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,54990.0
+8.0,LPDDR5,512.0,AMD Ryzen,Ryzen 3,4.0,8.0,AMD,Radeon (Unspecified),Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,36990.0
+16.0,DDR5,1024.0,Intel Core,Core i5,10.0,16.0,NVIDIA,RTX 3050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,79990.0
+4.0,LPDDR4,128.0,Other,MediaTek,8.0,,ARM,Mali G72,Integrated,,11.6,0,Prime OS,Unknown,1.7786458333333333,12990.0
+8.0,DDR4,512.0,Intel Core,Core i3,2.0,4.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,35500.0
+16.0,DDR5,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 3050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,73223.0
+8.0,DDR4,512.0,Intel Core,Core i3,2.0,4.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,34990.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7786458333333333,29990.0
+16.0,DDR5,1024.0,Intel Core,Core i9,14.0,20.0,NVIDIA,RTX 4070,Dedicated,8.0,17.3,0,Windows 11,2 Year Warranty,1.7777777777777777,183990.0
+8.0,DDR4,512.0,Intel Core,Core i3,2.0,4.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,36790.0
+16.0,DDR5,512.0,Intel Core,Core i7,16.0,24.0,NVIDIA,RTX 4060,Dedicated,8.0,16.1,0,Windows 11,1 Year Warranty,1.7777777777777777,132490.0
+32.0,DDR5,2048.0,Intel Core,Core i9,24.0,32.0,NVIDIA,RTX 4080,Dedicated,12.0,16.0,0,Windows 11,1 Year Warranty,1.6,289990.0
+8.0,LPDDR5,1024.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,1,Windows 11,1 Year Warranty,1.6,69990.0
+16.0,DDR4,1024.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,49199.0
+4.0,DDR4,128.0,Intel Celeron,Celeron,2.0,2.0,Intel,UHD Graphics,Integrated,,14.1,0,Windows 11,1 Year Warranty,1.7786458333333333,13990.0
+8.0,LPDDR5,512.0,AMD Ryzen,Ryzen 5,4.0,8.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,33990.0
+16.0,DDR4,512.0,Intel Core,Core i5,12.0,16.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,72990.0
+16.0,DDR4,512.0,Intel Core,Core i7,10.0,16.0,NVIDIA,RTX 3050,Dedicated,4.0,16.0,0,Windows 11,1 Year Warranty,1.6,77990.0
+32.0,DDR5,1024.0,Intel Core,Core i9,14.0,20.0,NVIDIA,RTX 4070,Dedicated,8.0,17.0,1,Windows 11,1 Year Warranty,1.6,355490.0
+16.0,DDR5,512.0,Intel Core,Core i7,10.0,16.0,NVIDIA,RTX 4060,Dedicated,8.0,16.0,0,Windows 11,Unknown,1.6,130000.0
+16.0,DDR4,512.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.7777777777777777,78980.0
+16.0,DDR5,1024.0,Intel Core,Core i7,10.0,12.0,Intel,Iris Xe,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,124000.0
+16.0,LPDDR4X,512.0,Intel Core,Core i3,6.0,8.0,Intel,Iris Xe,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,36990.0
+8.0,DDR4,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,58490.0
+16.0,LPDDR5,512.0,Intel Core,Core i7,12.0,16.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,2 Year Warranty,1.6,89990.0
+8.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,45900.0
+,,1024.0,Intel Core,Core i9,14.0,20.0,Unknown,Unknown,Unknown,,,0,Unknown,Unknown,,150000.0
+16.0,DDR4,1024.0,Intel Core,Core i5,4.0,8.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,50000.0
+8.0,DDR4,512.0,Intel Core,Core i5,4.0,8.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,44890.0
+8.0,LPDDR5,128.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,14.0,0,ChromeOS,1 Year Warranty,1.7777777777777777,34990.0
+16.0,DDR4,512.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,72490.0
+8.0,,512.0,Apple,Apple M3,8.0,,Apple,10-Core GPU,Integrated,,13.6,0,macOS,1 Year Warranty,1.5384615384615385,134900.0
+8.0,LPDDR5,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,59290.0
+8.0,DDR4,512.0,Intel Core,Core i3,5.0,6.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,38490.0
+16.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,Integrated Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,60799.0
+32.0,DDR5,1024.0,Other,,14.0,20.0,NVIDIA,RTX 4070,Dedicated,8.0,17.0,0,Windows 11,3 Year Warranty,1.6,247999.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,NVIDIA,GTX 1650,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,52999.0
+16.0,LPDDR5,1024.0,Intel Core,Core i7,12.0,16.0,Intel,Iris Xe,Integrated,,13.3,0,Windows 11,1 Year Warranty,1.6,105999.0
+16.0,LPDDR5,512.0,Intel Core,Core i5,8.0,12.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,54990.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,49990.0
+8.0,DDR4,128.0,Intel Celeron,Celeron,2.0,,Intel,UHD Graphics,Integrated,,11.6,0,Windows 11,1 Year Warranty,1.7786458333333333,16490.0
+8.0,DDR4,256.0,Apple,Apple M3,8.0,,Apple,10-Core GPU,Integrated,,15.3,0,macOS,1 Year Warranty,1.5450643776824033,133553.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,36990.0
+64.0,DDR5,2048.0,Intel Core,Core i9,14.0,20.0,NVIDIA,RTX 4080,Dedicated,12.0,17.3,0,Windows 11,2 Year Warranty,1.7777777777777777,489883.0
+16.0,LPDDR5X,512.0,Intel Core,Core i7,14.0,20.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,106000.0
+8.0,LPDDR5,256.0,Intel Celeron,Celeron,4.0,4.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,21990.0
+8.0,DDR4,512.0,Intel Core,Core i3,2.0,4.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,36490.0
+16.0,DDR5,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,111505.0
+8.0,DDR4,512.0,Intel Core,Core i7,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,60990.0
+16.0,LPDDR5,1024.0,Other,Core 7,10.0,12.0,Intel,Integrated Graphics,Integrated,,15.6,1,Windows 11,1 Year Warranty,1.7777777777777777,138990.0
+16.0,LPDDR5,512.0,AMD Ryzen,Ryzen 5,4.0,8.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,43990.0
+16.0,DDR4,512.0,Intel Core,Core i5,12.0,16.0,NVIDIA,RTX 4050,Dedicated,6.0,16.0,0,Windows 11,1 Year Warranty,1.6,89990.0
+16.0,DDR4,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,69990.0
+16.0,DDR5,1024.0,Intel Core,Core i5,10.0,12.0,NVIDIA,T550,Dedicated,4.0,16.0,0,Windows 11,1 Year Warranty,1.6,126494.0
+16.0,DDR4,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,14.0,0,Windows 11,1 Year Warranty,1.6,64990.0
+8.0,LPDDR5,512.0,AMD Ryzen,Ryzen 5,4.0,8.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,41990.0
+16.0,DDR5,1024.0,Intel Core,Core i9,24.0,32.0,NVIDIA,RTX 4060,Dedicated,8.0,16.0,0,Windows 11,1 Year Warranty,1.6,159990.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,DOS,1 Year Warranty,1.7777777777777777,33990.0
+16.0,DDR4,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,14.0,0,Windows 11,1 Year Warranty,1.6,67990.0
+8.0,DDR4,512.0,Intel Core,Core i5,6.0,12.0,NVIDIA,GTX 1650,Dedicated,4.0,16.1,0,Windows 11,1 Year Warranty,1.7777777777777777,56999.0
+16.0,DDR5,1024.0,Intel Core,Core i7,10.0,16.0,NVIDIA,RTX 4070,Dedicated,8.0,17.3,0,Windows 11,2 Year Warranty,1.7777777777777777,134990.0
+8.0,LPDDR5,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,38490.0
+16.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,58990.0
+16.0,DDR4,1024.0,Intel Core,Core i5,10.0,12.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,66990.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,59990.0
+16.0,DDR5,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 4060,Dedicated,8.0,16.0,0,Windows 11,1 Year Warranty,1.6,130990.0
+16.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,73990.0
+16.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,15.6,1,Windows 11,1 Year Warranty,1.7777777777777777,82990.0
+32.0,DDR5,1024.0,Intel Core,Core i9,24.0,32.0,NVIDIA,RTX 4080,Dedicated,12.0,16.0,0,Windows 11,1 Year Warranty,1.6,298990.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Radeon (Unspecified),Integrated,,14.0,1,Windows 11,1 Year Warranty,1.6,64990.0
+16.0,DDR4,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 3050,Dedicated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,74490.0
+16.0,DDR4,1024.0,Intel Core,Core i7,14.0,20.0,NVIDIA,RTX 4050,Dedicated,6.0,16.0,0,Windows 11,1 Year Warranty,1.6,114990.0
+32.0,DDR4,1024.0,Intel Core,Core i7,14.0,20.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,3 Year Warranty,1.6,109990.0
+16.0,DDR5,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 3050,Dedicated,6.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,95000.0
+16.0,LPDDR5,1024.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,1,Windows 11,1 Year Warranty,1.6,82990.0
+16.0,LPDDR5,512.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,13.3,0,Windows 11,1 Year Warranty,1.6,77490.0
+8.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,UHD Graphics,Integrated,,14.0,0,DOS,3 Year Warranty,1.7777777777777777,48989.0
+16.0,DDR5,512.0,Intel Core,Core i7,14.0,,NVIDIA,RTX 3050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,105990.0
+32.0,DDR5,1024.0,AMD Ryzen,Ryzen 5,6.0,12.0,NVIDIA,Quadro,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,137134.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,65990.0
+16.0,DDR4,512.0,Intel Core,Core i7,10.0,16.0,NVIDIA,RTX 4060,Dedicated,8.0,16.0,0,Windows 11,1 Year Warranty,1.6,99990.0
+4.0,LPDDR4,64.0,Other,,8.0,,ARM,Mali G72,Integrated,,11.6,0,JioOS,1 Year Warranty,1.7786458333333333,14499.0
+8.0,LPDDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,14.0,1,Windows 11,1 Year Warranty,1.6,53990.0
+16.0,LPDDR5,512.0,Intel Core,Core i5,8.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,2 Year Warranty,1.6,67990.0
+8.0,LPDDR4X,64.0,Intel Celeron,Celeron,2.0,2.0,Intel,UHD Graphics,Integrated,,14.0,0,ChromeOS,1 Year Warranty,0.5625,22490.0
+32.0,DDR5,1024.0,Intel Core,Core i9,24.0,32.0,NVIDIA,RTX 4080,Dedicated,12.0,16.0,0,Windows 11,1 Year Warranty,1.6,286200.0
+32.0,DDR5,1024.0,Intel Core,Core i9,14.0,20.0,NVIDIA,RTX 3080 Ti,Dedicated,16.0,16.0,0,Windows 11,1 Year Warranty,,373192.0
+18.0,,512.0,Apple,Apple M3,12.0,,Apple,18-Core GPU,Integrated,,16.2,0,macOS,1 Year Warranty,1.5470008952551477,230590.0
+16.0,LPDDR5,1024.0,Other,Core Ultra 7,16.0,22.0,Intel,Arc,Dedicated,,16.0,0,Windows 11,2 Year Warranty,1.600625,119990.0
+32.0,DDR5,1024.0,Intel Core,Core i9,24.0,32.0,NVIDIA,RTX 4070,Dedicated,8.0,16.1,0,Windows 11,1 Year Warranty,1.6,237990.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,35990.0
+4.0,LPDDR4X,128.0,Other,MediaTek,8.0,,ARM,Mali G52,Integrated,,14.0,0,ChromeOS,1 Year Warranty,1.7786458333333333,15990.0
+8.0,LPDDR5,256.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,12.4,1,Windows 11,1 Year Warranty,1.5,78990.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,50490.0
+16.0,LPDDR5,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,14.0,1,Windows 11,1 Year Warranty,1.6,86990.0
+16.0,LPDDR5,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,67890.0
+16.0,DDR4,512.0,Intel Core,Core i7,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,124000.0
+4.0,DDR4,256.0,AMD Athlon,Athlon,2.0,2.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7786458333333333,21290.0
+8.0,LPDDR5,512.0,Intel Core,Core i3,8.0,8.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,31990.0
+16.0,DDR4,512.0,Intel Core,Core i5,12.0,16.0,NVIDIA,RTX 4050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,97000.0
+16.0,LPDDR5,512.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,69000.0
+16.0,DDR4,512.0,Intel Core,Core i7,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,1,Windows 11,1 Year Warranty,1.7777777777777777,89990.0
+8.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,45990.0
+8.0,LPDDR5,512.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,14.0,1,Windows 11,1 Year Warranty,0.625,127000.0
+16.0,DDR4,512.0,Intel Core,Core i5,6.0,12.0,NVIDIA,GTX 1650,Dedicated,4.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,45990.0
+8.0,DDR4,512.0,Intel Core,Core i7,6.0,12.0,NVIDIA,GTX 1650,Dedicated,4.0,17.3,0,Windows 10,1 Year Warranty,1.7777777777777777,83500.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,66990.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 3,4.0,8.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,27130.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Radeon (Unspecified),Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,69190.0
+8.0,DDR4,512.0,Intel Core,Core i3,2.0,4.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,34880.0
+8.0,DDR4,512.0,Intel Core,Core i3,2.0,4.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,33990.0
+16.0,DDR5,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 3050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,79990.0
+16.0,LPDDR5,1024.0,Intel Core,Core i9,14.0,20.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,110709.0
+8.0,LPDDR5,512.0,AMD Ryzen,Ryzen 5,4.0,8.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,41790.0
+18.0,,512.0,Apple,Apple M3,11.0,,Apple,14-Core GPU,Integrated,,14.2,0,macOS,1 Year Warranty,1.539714867617108,186899.0
+8.0,DDR4,512.0,Intel Core,Core i3,2.0,4.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,36890.0
+16.0,LPDDR4X,512.0,Other,Core 7,10.0,12.0,Intel,Integrated Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,85990.0
+8.0,DDR4,512.0,Intel Core,Core i3,2.0,4.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,38990.0
+8.0,DDR5,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,RX 6550M,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,49990.0
+16.0,DDR5,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 4050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,92990.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.7777777777777777,46899.0
+8.0,DDR4,1024.0,Intel Core,Core i5,6.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,52990.0
+8.0,DDR4,512.0,Intel Pentium,Pentium,4.0,4.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7786458333333333,26990.0
+16.0,DDR5,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,69990.0
+16.0,DDR4,512.0,Intel Core,Core i5,6.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,52990.0
+16.0,DDR4,1024.0,Intel Core,Core i9,14.0,20.0,NVIDIA,RTX 3050,Dedicated,4.0,14.0,0,Windows 11,1 Year Warranty,1.6,109990.0
+16.0,DDR5,1024.0,Intel Core,Core i7,16.0,24.0,NVIDIA,RTX 3050,Dedicated,6.0,16.1,0,Windows 11,1 Year Warranty,1.7777777777777777,105990.0
+8.0,DDR4,256.0,Intel Celeron,Celeron,2.0,2.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7786458333333333,26490.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7786458333333333,36990.0
+16.0,LPDDR5,512.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,0.625,89990.0
+8.0,LPDDR5,512.0,AMD Ryzen,Ryzen 3,4.0,8.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,32000.0
+8.0,LPDDR4X,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,14.0,1,Windows 11,1 Year Warranty,1.6,59190.0
+16.0,DDR4,512.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,52990.0
+32.0,DDR5,2048.0,Intel Core,Core i9,16.0,24.0,NVIDIA,RTX 3080 Ti,Dedicated,16.0,17.3,0,Windows 11,1 Year Warranty,1.7777777777777777,195999.0
+8.0,LPDDR5,512.0,AMD Ryzen,Ryzen 5,4.0,8.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,32790.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,62950.0
+16.0,LPDDR5,512.0,Intel Core,Core i7,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,84899.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,Iris Xe,Integrated,,16.0,0,DOS,Unknown,1.7777777777777777,42990.0
+16.0,DDR5,1024.0,Intel Core,Core i9,24.0,32.0,NVIDIA,RTX 4060,Dedicated,8.0,16.1,0,Windows 11,1 Year Warranty,1.6,102990.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,59990.0
+16.0,DDR5,1024.0,Intel Core,Core i5,12.0,16.0,NVIDIA,RTX 4060,Dedicated,8.0,16.0,0,Windows 11,1 Year Warranty,1.6,157544.0
+8.0,LPDDR5,1024.0,AMD Ryzen,Ryzen 5,4.0,8.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,44990.0
+16.0,DDR4,512.0,Intel Core,Core i7,4.0,8.0,NVIDIA,MX 450,Dedicated,2.0,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,96999.0
+16.0,DDR4,512.0,Intel Core,Core i7,10.0,16.0,NVIDIA,RTX (Unspecified),Dedicated,,16.0,0,Windows 11,1 Year Warranty,1.6,99990.0
+8.0,LPDDR5,1024.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,61990.0
+16.0,LPDDR5,512.0,Intel Core,Core i5,12.0,16.0,NVIDIA,RTX 2050,Dedicated,4.0,14.0,0,Windows 11,2 Year Warranty,1.6,79990.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 3,2.0,4.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,25580.0
+16.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,58990.0
+16.0,DDR4,1024.0,Intel Core,Core i7,10.0,16.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,85990.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,66990.0
+16.0,DDR5,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 4050,Dedicated,6.0,16.0,0,Windows 11,1 Year Warranty,1.6,114190.0
+16.0,DDR5,1024.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 3070 Ti,Dedicated,8.0,16.1,0,Windows 11,1 Year Warranty,1.7777777777777777,112990.0
+16.0,LPDDR5,512.0,Other,Core Ultra 5,12.0,14.0,Intel,Integrated Graphics,Integrated,,14.0,1,Windows 11,1 Year Warranty,1.6,96999.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,DOS,1 Year Warranty,1.7777777777777777,46400.0
+8.0,DDR4,256.0,Apple,Apple M2,8.0,,Apple,10-Core GPU,Integrated,,15.3,0,macOS,1 Year Warranty,1.5450643776824033,113690.0
+16.0,DDR4,512.0,Intel Core,Core i7,4.0,8.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,49499.0
+16.0,DDR4,512.0,Other,Core 3,6.0,8.0,Intel,Integrated Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,49990.0
+16.0,DDR5,1024.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 4050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,92990.0
+16.0,DDR5,1024.0,Other,Core Ultra 7,16.0,22.0,NVIDIA,RTX 4060,Dedicated,8.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,114990.0
+16.0,DDR5,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 3050,Dedicated,4.0,17.3,0,Windows 11,1 Year Warranty,1.7777777777777777,79990.0
+16.0,DDR5,1024.0,AMD Ryzen,Ryzen 5,6.0,12.0,NVIDIA,Quadro T600,Dedicated,4.0,,0,Unknown,Unknown,,115558.0
+8.0,DDR4,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,58999.0
+8.0,DDR5,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,43990.0
+4.0,LPDDR4,64.0,Other,MediaTek,8.0,,ARM,Mali G72,Integrated,,11.6,0,Prime OS,Unknown,1.7786458333333333,11990.0
+16.0,DDR4,512.0,Intel Core,Core i7,14.0,20.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,86990.0
+16.0,LPDDR5,512.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,14.0,1,Windows 11,1 Year Warranty,1.6,91190.0
+8.0,DDR4,512.0,Intel Core,Core i3,2.0,4.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,34990.0
+16.0,LPDDR5,256.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,12.4,1,Windows 11,1 Year Warranty,1.5,89990.0
+16.0,LPDDR5X,512.0,Other,Core Ultra 7,16.0,22.0,Intel,Arc,Dedicated,,16.0,1,Windows 11,1 Year Warranty,1.6,149990.0
+32.0,DDR5,1024.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 4060,Dedicated,8.0,16.0,0,Windows 11,1 Year Warranty,0.5625,135999.0
+8.0,DDR4,512.0,Intel Core,Core i5,4.0,8.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,42990.0
+16.0,DDR4,512.0,Intel Core,Core i7,10.0,16.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,79990.0
+64.0,DDR5,2048.0,Intel Core,Core i9,24.0,32.0,NVIDIA,RTX 4090,Dedicated,16.0,16.0,0,Windows 11,1 Year Warranty,1.6,349990.0
+16.0,DDR5,512.0,Intel Core,Core i7,14.0,,NVIDIA,RTX 4060,Dedicated,8.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,109990.0
+8.0,DDR5,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 4050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,75990.0
+16.0,DDR5,1024.0,Intel Core,Core i7,20.0,28.0,NVIDIA,RTX 4060,Dedicated,8.0,16.1,0,Windows 11,1 Year Warranty,1.7777777777777777,138990.0
+8.0,,256.0,Apple,Apple M3,8.0,,Apple,8-Core GPU,Integrated,,13.6,0,macOS,1 Year Warranty,1.5384615384615385,114900.0
+16.0,LPDDR5,512.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,52990.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,Integrated Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,27990.0
+16.0,LPDDR4X,1024.0,Intel Core,Core i5,4.0,8.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,36990.0
+16.0,DDR4,1024.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,38790.0
+16.0,LPDDR5X,512.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,49990.0
+16.0,DDR5,1024.0,Intel Core,Core i7,10.0,16.0,NVIDIA,RTX 4060,Dedicated,8.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,171990.0
+16.0,LPDDR5,512.0,Intel Core,Core i7,10.0,12.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,1,Windows 11,1 Year Warranty,1.7777777777777777,120490.0
+8.0,LPDDR5,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,55990.0
+16.0,DDR4,512.0,Other,Core 5,10.0,12.0,Intel,Integrated Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,67990.0
+16.0,LPDDR5,1024.0,Intel Core,Core i7,14.0,20.0,Intel,Iris Xe,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,87190.0
+16.0,LPDDR5,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,15.6,1,Windows 11,1 Year Warranty,1.7777777777777777,86490.0
+16.0,DDR5,1024.0,Intel Core,Core i7,14.0,20.0,NVIDIA,RTX 3070 Ti,Dedicated,8.0,16.0,0,Windows 11,1 Year Warranty,1.6,278103.0
+16.0,LPDDR5,1024.0,Intel Core,Core i7,12.0,16.0,Intel,Iris Xe,Integrated,,16.0,1,Windows 11,1 Year Warranty,0.625,152499.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,39990.0
+16.0,DDR4,512.0,Other,Ryzen 5,6.0,12.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,68990.0
+32.0,LPDDR5,1024.0,Other,Core Ultra 9,16.0,22.0,NVIDIA,RTX 4060,Dedicated,8.0,16.0,0,Windows 11,2 Year Warranty,1.6,189990.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 3,2.0,4.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,DOS,1 Year Warranty,1.7786458333333333,23940.0
+16.0,DDR4,1024.0,Intel Core,Core i9,14.0,20.0,Intel,Iris Xe,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,95689.0
+16.0,LPDDR4X,512.0,Intel Core,Core i7,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,1,Windows 11,1 Year Warranty,1.6,87990.0
+16.0,DDR5,1024.0,AMD Ryzen,Ryzen 9,8.0,16.0,NVIDIA,RTX 4060,Dedicated,8.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,154990.0
+8.0,DDR4,512.0,Intel Core,Core i5,6.0,12.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,51990.0
+16.0,LPDDR5,1024.0,Other,Core Ultra 5,14.0,18.0,Intel,Arc,Dedicated,,14.0,0,Windows 11,1 Year Warranty,1.6,79990.0
+16.0,DDR4,1024.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,1,Windows 11,1 Year Warranty,1.7777777777777777,74990.0
+8.0,LPDDR5,512.0,AMD Athlon,Athlon,2.0,2.0,AMD,Radeon 610M,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,24790.0
+16.0,LPDDR5,512.0,Intel Core,Core i5,8.0,12.0,Intel,UHD Graphics,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,62190.0
+16.0,LPDDR5,1024.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,70790.0
+16.0,DDR4,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 4050,Dedicated,6.0,16.0,0,Windows 11,1 Year Warranty,1.6,75000.0
+16.0,DDR4,512.0,Intel Core,Core i5,4.0,8.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,42600.0
+16.0,DDR4,512.0,Intel Core,Core i7,10.0,12.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,Unknown,1.7777777777777777,57990.0
+16.0,DDR4,512.0,Intel Core,Core i7,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,50990.0
+16.0,LPDDR5,512.0,Intel Core,Core i7,10.0,12.0,Intel,Iris Xe,Integrated,,15.6,1,Windows 11,1 Year Warranty,1.7777777777777777,109990.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Vega 7,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,46890.0
+16.0,DDR4,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 3050,Dedicated,4.0,16.0,0,Windows 11,1 Year Warranty,1.6,67990.0
+16.0,DDR5,1024.0,Intel Core,Core i7,16.0,24.0,NVIDIA,RTX 4070,Dedicated,8.0,16.0,0,Windows 11,1 Year Warranty,1.6,184990.0
+8.0,LPDDR4,512.0,Intel Core,Core i3,2.0,4.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,23990.0
+16.0,DDR5,1024.0,Intel Core,Core i7,14.0,,NVIDIA,RTX 4060,Dedicated,8.0,16.0,0,Windows 11,1 Year Warranty,1.6,139990.0
+16.0,LPDDR5,512.0,AMD Ryzen,Ryzen 5,4.0,8.0,AMD,Radeon 610M,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,45990.0
+16.0,DDR5,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 3050,Dedicated,6.0,16.1,0,Windows 11,1 Year Warranty,1.7777777777777777,79990.0
+16.0,LPDDR4X,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,69990.0
+8.0,LPDDR5,1024.0,AMD Ryzen,Ryzen 3,4.0,8.0,AMD,Radeon (Unspecified),Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,34990.0
+8.0,DDR4,512.0,Intel Core,Core i3,2.0,4.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,24990.0
+8.0,LPDDR5,512.0,AMD Ryzen,Ryzen 3,4.0,8.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,36990.0
+16.0,DDR5,512.0,Intel Core,Core i7,16.0,24.0,NVIDIA,RTX 4050,Dedicated,6.0,16.1,0,Windows 11,1 Year Warranty,1.6,161445.0
+4.0,LPDDR4X,64.0,Intel Celeron,Celeron,2.0,2.0,Intel,UHD Graphics,Integrated,,11.6,0,ChromeOS,1 Year Warranty,1.25,19990.0
+8.0,DDR4,512.0,Intel Celeron,Celeron,2.0,2.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,20035.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,36890.0
+16.0,LPDDR5,1024.0,Intel Core,Core i5,8.0,12.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,64990.0
+16.0,DDR4,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 3050,Dedicated,4.0,16.0,0,Windows 11,1 Year Warranty,1.6,67990.0
+8.0,DDR4,256.0,Intel Core,Core i3,2.0,4.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,31500.0
+16.0,DDR5,1024.0,AMD Ryzen,Ryzen 9,8.0,16.0,NVIDIA,RTX 4050,Dedicated,6.0,14.0,0,Windows 11,1 Year Warranty,1.6,145999.0
+8.0,LPDDR4X,512.0,Intel Core,Core i5,4.0,8.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,32990.0
+16.0,DDR5,1024.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 3050,Dedicated,6.0,16.1,0,Windows 11,1 Year Warranty,1.7777777777777777,81990.0
+16.0,DDR5,512.0,Intel Core,Core i7,16.0,24.0,NVIDIA,RTX 4060,Dedicated,8.0,16.1,0,Windows 11,1 Year Warranty,1.7777777777777777,151490.0
+16.0,LPDDR5,512.0,Intel Core,Core i5,8.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,2 Year Warranty,1.6,67190.0
+16.0,DDR5,1024.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 4050,Dedicated,6.0,16.1,0,Windows 11,1 Year Warranty,1.7777777777777777,103990.0
+12.0,LPDDR3,512.0,Intel Core,Core i3,4.0,8.0,Intel,UHD Graphics,Integrated,,12.0,0,Windows 11,1 Year Warranty,1.5,39990.0
+16.0,DDR4,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,60999.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,62990.0
+16.0,DDR4,512.0,Intel Core,Core i7,14.0,20.0,NVIDIA,RTX 4050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,109990.0
+16.0,LPDDR5,1024.0,Intel Core,Core i7,14.0,20.0,NVIDIA,RTX 2050,Dedicated,4.0,16.0,0,Windows 11,2 Year Warranty,1.6,119990.0
+32.0,LPDDR5,1024.0,Intel Core,Core i7,12.0,16.0,Intel,Iris Xe,Integrated,,13.4,1,Windows 11,1 Year Warranty,1.6,202490.0
+8.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,Integrated Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7786458333333333,64490.0
+16.0,DDR5,512.0,Intel Core,Core i7,14.0,,NVIDIA,RTX 4050,Dedicated,6.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,106990.0
+16.0,DDR4,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,67990.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,38999.0
+16.0,DDR4,1024.0,Intel Core,Core i7,14.0,20.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,69990.0
+16.0,DDR4,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 4050,Dedicated,6.0,16.0,0,Windows 11,1 Year Warranty,1.6,76990.0
+8.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,UHD Graphics,Integrated,,15.6,0,DOS,1 Year Warranty,1.7777777777777777,43400.0
+16.0,DDR5,1024.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 4060,Dedicated,8.0,16.0,0,Windows 11,1 Year Warranty,1.6,199290.0
+16.0,LPDDR5,512.0,Intel Core,Core i5,12.0,16.0,Intel,Iris Xe,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,72990.0
+16.0,DDR4,512.0,Intel Core,Core i5,4.0,8.0,NVIDIA,GTX 1650,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,54990.0
+16.0,DDR4,1024.0,Intel Core,Core i7,10.0,16.0,NVIDIA,RTX 2050,Dedicated,4.0,14.0,0,Windows 11,1 Year Warranty,1.6,79990.0
+8.0,LPDDR5,512.0,AMD Ryzen,Ryzen 3,4.0,8.0,AMD,Radeon (Unspecified),Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,28990.0
+32.0,DDR5,1024.0,Intel Core,Core i9,24.0,32.0,NVIDIA,RTX 4080,Dedicated,12.0,16.0,0,Windows 11,1 Year Warranty,1.7777777777777777,323990.0
+8.0,DDR5,512.0,Intel Core,Core i3,5.0,6.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,40990.0
+32.0,LPDDR4X,1024.0,Intel Core,Core i7,10.0,12.0,Intel,Iris Xe,Integrated,,13.5,1,Windows 11,1 Year Warranty,1.5,146990.0
+8.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,Integrated Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,55700.0
+8.0,LPDDR5,512.0,AMD Ryzen,Ryzen 5,4.0,8.0,AMD,Radeon 610M,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,41290.0
+16.0,LPDDR5,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,79990.0
+16.0,LPDDR5,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,15.6,1,Windows 11,1 Year Warranty,1.7777777777777777,95990.0
+16.0,DDR5,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,73882.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,NVIDIA,GTX 1650,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,54990.0
+16.0,LPDDR5,512.0,Intel Core,Core i5,8.0,12.0,Intel,Unknown,Unknown,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,53490.0
+16.0,DDR5,1024.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,83990.0
+16.0,DDR5,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 4060,Dedicated,8.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,98790.0
+16.0,DDR5,1024.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 4050,Dedicated,6.0,16.1,0,Windows 11,1 Year Warranty,1.7777777777777777,115999.0
+8.0,LPDDR4X,512.0,Intel Core,Core i3,2.0,4.0,Intel,UHD Graphics,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,25990.0
+16.0,DDR4,512.0,Intel Core,Core i5,4.0,8.0,NVIDIA,GTX 1650,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,52400.0
+8.0,DDR4,512.0,Intel Core,Core i5,6.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,2 Year Warranty,1.7777777777777777,48990.0
+8.0,DDR4,512.0,AMD Ryzen,Ryzen 5,4.0,8.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,48490.0
+8.0,DDR4,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,59990.0
+8.0,DDR4,512.0,Intel Core,Core i3,2.0,4.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,34990.0
+8.0,LPDDR5,512.0,AMD Ryzen,Ryzen 5,4.0,8.0,AMD,Radeon (Unspecified),Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,44437.0
+8.0,LPDDR4X,1024.0,Intel Core,Core i5,5.0,5.0,Intel,Integrated Graphics,Integrated,,13.3,1,Windows 10,1 Year Warranty,1.3333333333333333,145000.0
+16.0,DDR5,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,NVIDIA,RTX 4060,Dedicated,8.0,16.0,0,Windows 11,1 Year Warranty,1.7777777777777777,113090.0
+16.0,LPDDR5X,512.0,Other,Core Ultra 7,16.0,22.0,Intel,Arc,Dedicated,,16.0,1,Windows 11,1 Year Warranty,1.6,163990.0
+16.0,LPDDR4X,1024.0,Intel Core,Core i7,4.0,8.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,49990.0
+8.0,DDR4,512.0,Intel Celeron,Celeron,2.0,2.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,27990.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,14.0,0,Windows 11,1 Year Warranty,1.7777777777777777,37990.0
+8.0,DDR4,512.0,Intel Core,Core i3,6.0,8.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,38990.0
+16.0,DDR5,512.0,Intel Core,Core i5,8.0,12.0,NVIDIA,RTX 4050,Dedicated,6.0,16.1,0,Windows 11,1 Year Warranty,1.7777777777777777,89990.0
+8.0,DDR4,512.0,Intel Core,Core i5,4.0,8.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,50712.0
+16.0,DDR4,512.0,Intel Core,Core i7,10.0,12.0,Intel,Unknown,Unknown,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,62490.0
+8.0,LPDDR4X,512.0,Intel Core,Core i3,6.0,8.0,Intel,Iris Xe,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,37990.0
+16.0,DDR4,1024.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Radeon (Unspecified),Integrated,,14.0,1,Windows 11,1 Year Warranty,1.6,68990.0
+8.0,DDR4,512.0,Apple,Apple M3,8.0,,Apple,10-Core GPU,Integrated,,15.3,0,macOS,1 Year Warranty,1.5450643776824033,154900.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,NVIDIA,RTX 3050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,68999.0
+8.0,DDR4,512.0,Intel Core,Core i5,6.0,12.0,NVIDIA,RTX 2050,Dedicated,4.0,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,49990.0
+16.0,LPDDR4X,512.0,AMD Ryzen,Ryzen 5,6.0,12.0,AMD,Radeon (Unspecified),Integrated,,14.0,1,Windows 11,1 Year Warranty,1.6,65990.0
+16.0,DDR4,512.0,Intel Core,Core i7,10.0,12.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,69990.0
+16.0,DDR4,512.0,AMD Ryzen,Ryzen 7,8.0,16.0,AMD,Vega 7,Integrated,,16.0,0,Windows 11,1 Year Warranty,1.6,55200.0
+16.0,LPDDR5X,1024.0,Intel Core,Core i7,10.0,12.0,Intel,Iris Xe,Integrated,,14.0,0,Windows 11,1 Year Warranty,1.6,97990.0
+8.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,UHD Graphics,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,57990.0
+8.0,DDR4,128.0,Intel Celeron,Celeron,2.0,2.0,Intel,UHD Graphics,Integrated,,11.6,0,Windows 11,1 Year Warranty,1.7786458333333333,17990.0
+8.0,DDR4,512.0,Intel Core,Core i5,10.0,12.0,Intel,Iris Xe,Integrated,,15.6,0,Windows 11,1 Year Warranty,1.7777777777777777,46490.0

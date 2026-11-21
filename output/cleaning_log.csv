@@ -1,0 +1,28 @@
+index,column,old_value,new_value,reason
+109,RAM_GB,missing/keliru,8,Kapasitas RAM diverifikasi dari informasi model
+328,RAM_GB,missing/keliru,16,Kapasitas RAM diverifikasi dari informasi model
+341,RAM_GB,missing/keliru,4,Kapasitas RAM diverifikasi dari informasi model
+341,CPU_Cores,missing,8,Octa Core pada spesifikasi
+180,RAM_GB,512 (hasil ekstraksi keliru),16,Koreksi berdasarkan judul/model
+679,RAM_GB,1 (tidak dapat dipastikan),NaN,Dibiarkan missing karena tipe/kapasitas RAM tidak jelas
+679,Storage_GB,1 TB,1024,Konversi 1 TB menjadi 1024 GB
+65,GPU_Model,missing/keliru,RTX 4090,Informasi GPU diverifikasi dari judul/model
+84,Graphics_Clean,informasi GPU bergeser,4 GB NVIDIA GeForce RTX 3050,Pemulihan informasi GPU dari kolom Display
+327,Graphics_Clean,informasi GPU bergeser,4 GB NVIDIA GeForce RTX 3050,Pemulihan informasi GPU dari kolom Display
+597,Graphics_Clean,informasi GPU bergeser,4 GB NVIDIA GeForce RTX 2050,Pemulihan informasi GPU dari kolom Display
+598,Graphics_Clean,informasi GPU bergeser,4 GB NVIDIA GeForce RTX 2050,Pemulihan informasi GPU dari kolom Display
+772,Graphics_Clean,informasi GPU bergeser,4 GB NVIDIA Quadro T600,Pemulihan informasi GPU dari kolom Display
+65,OS,nilai salah tempat/tidak konsisten,Windows 11 Home,Koreksi berdasarkan pemeriksaan spesifikasi/model
+109,OS,nilai salah tempat/tidak konsisten,Windows 11,Koreksi berdasarkan pemeriksaan spesifikasi/model
+111,OS,nilai salah tempat/tidak konsisten,Windows 11,Koreksi berdasarkan pemeriksaan spesifikasi/model
+180,OS,nilai salah tempat/tidak konsisten,Windows 11,Koreksi berdasarkan pemeriksaan spesifikasi/model
+213,OS,nilai salah tempat/tidak konsisten,DOS,Koreksi berdasarkan pemeriksaan spesifikasi/model
+217,OS,nilai salah tempat/tidak konsisten,DOS,Koreksi berdasarkan pemeriksaan spesifikasi/model
+328,OS,nilai salah tempat/tidak konsisten,Kirin OS,Koreksi berdasarkan pemeriksaan spesifikasi/model
+418,OS,nilai salah tempat/tidak konsisten,Prime OS,Koreksi berdasarkan pemeriksaan spesifikasi/model
+452,OS,nilai salah tempat/tidak konsisten,Prime OS,Koreksi berdasarkan pemeriksaan spesifikasi/model
+476,OS,nilai salah tempat/tidak konsisten,Windows 11 Home,Koreksi berdasarkan pemeriksaan spesifikasi/model
+550,OS,nilai salah tempat/tidak konsisten,Windows 11,Koreksi berdasarkan pemeriksaan spesifikasi/model
+848,OS,nilai salah tempat/tidak konsisten,Windows 11,Koreksi berdasarkan pemeriksaan spesifikasi/model
+914,OS,nilai salah tempat/tidak konsisten,Windows 11,Koreksi berdasarkan pemeriksaan spesifikasi/model
+676,OS,nilai salah tempat/tidak konsisten,JioOS,Koreksi berdasarkan pemeriksaan spesifikasi/model
