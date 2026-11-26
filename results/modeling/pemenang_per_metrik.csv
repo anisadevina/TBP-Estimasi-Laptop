@@ -1,0 +1,6 @@
+Metrik,Model_terbaik,Nilai
+CV_RMSE,Random Forest,27460.39
+Test_MAE,Random Forest,16067.54
+Test_RMSE,Multiple Linear Regression,33481.64
+Test_R2,Multiple Linear Regression,0.8162
+Test_MAPE_%,Random Forest,17.22

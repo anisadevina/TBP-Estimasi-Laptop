@@ -4,8 +4,10 @@
 #   [1] Model Evaluation      → metrik MAE, MSE, RMSE, R² (+MAPE)
 #                               pada data test untuk tiap model
 #   [2] Model Comparison      → tabel perbandingan ketiga model
-#   [3] Best Model Selection  → model terbaik berdasarkan
-#                               Test RMSE terendah (hasil pengujian)
+#   [3] Best Model Selection  → model terbaik berdasarkan CV RMSE
+#                               terendah (kriteria SAMA dengan modeling.py).
+#                               Data test TIDAK dipakai untuk memilih model;
+#                               ia hanya dipakai melaporkan performa akhir.
 #
 # Jalankan: python src/evaluation.py
 #
@@ -16,9 +18,10 @@
 #
 # Output (results/modeling/):
 #   ├── model_evaluation.csv   ← metrik test tiap model
-#   ├── model_comparison.csv   ← tabel perbandingan + penanda terbaik
+#   ├── model_comparison.csv   ← tabel perbandingan + penanda terbaik (CV)
+#   ├── pemenang_per_metrik.csv← model terbaik untuk tiap metrik test
 #   ├── prediksi_test.csv      ← prediksi ketiga model vs aktual
-#   ├── best_model.joblib      ← di-update: model Test RMSE terendah
+#   (best_model.joblib TIDAK ditimpa; dibuat oleh src/modeling.py)
 #   └── figures/
 #       ├── perbandingan_model.png
 #       ├── aktual_vs_prediksi.png
@@ -131,19 +134,21 @@ eval_df.to_csv(eval_path, index=False)
 print(f"  → Tersimpan: {eval_path.name}")
 
 # ─────────────────────────────────────────────────────────────
-# [3/4] Model Comparison — gabung CV + test, urut Test RMSE
+# [3/4] Model Comparison — gabung CV + test, urut CV RMSE
 # ─────────────────────────────────────────────────────────────
 print("\n[3/4] Model Comparison — menyusun tabel perbandingan ...")
 
-comp_df = eval_df.copy()
-if cv_df is not None:
-    cv_cols = [c for c in ("Model", "CV_RMSE", "CV_RMSE_std", "CV_R2")
-               if c in cv_df.columns]
-    comp_df = comp_df.merge(cv_df[cv_cols], on="Model", how="left")
+if cv_df is None:
+    sys.exit("  ✗ model_cv_results.csv tidak ditemukan (dibutuhkan untuk memilih\n"
+             "    model terbaik berdasarkan CV). Jalankan dulu:  python src/modeling.py")
 
-# Urut berdasarkan Test_RMSE terendah, penanda model terbaik
-comp_df = comp_df.sort_values("Test_RMSE").reset_index(drop=True)
-best_idx = int(comp_df["Test_RMSE"].idxmin())
+cv_cols = [c for c in ("Model", "CV_RMSE", "CV_RMSE_std", "CV_R2")
+           if c in cv_df.columns]
+comp_df = eval_df.merge(cv_df[cv_cols], on="Model", how="left")
+
+# Urut berdasarkan CV_RMSE terendah; penanda model terbaik (kriteria = modeling.py)
+comp_df = comp_df.sort_values("CV_RMSE").reset_index(drop=True)
+best_idx = int(comp_df["CV_RMSE"].idxmin())
 comp_df.insert(0, "Terbaik", "-")
 comp_df.loc[best_idx, "Terbaik"] = "★"
 
@@ -157,7 +162,7 @@ comp_df = comp_df[[c for c in col_order if c in comp_df.columns]]
 comp_path = RESULTS_DIR / "model_comparison.csv"
 comp_df.to_csv(comp_path, index=False)
 
-print("\n  Tabel perbandingan (diurutkan Test_RMSE terendah):")
+print("\n  Tabel perbandingan (diurutkan CV_RMSE terendah):")
 print("  " + "-" * 100)
 print(comp_df.to_string(index=False))
 print(f"\n  → Tersimpan: {comp_path.name}")
@@ -172,32 +177,44 @@ pred_df.to_csv(pred_path, index=False)
 print(f"  → Tersimpan: {pred_path.name}")
 
 # ─────────────────────────────────────────────────────────────
-# [4/4] Best Model Selection — Test RMSE terendah
+# [4/4] Best Model Selection — CV RMSE terendah
 # ─────────────────────────────────────────────────────────────
 print("\n[4/4] Best Model Selection ...")
-print("  Kriteria: Test RMSE terendah (berdasarkan hasil pengujian)")
+print("  Kriteria: CV RMSE terendah (5-fold pada data training).")
+print("  Data test tidak dipakai untuk memilih; hanya untuk melaporkan performa.")
 
 best_row  = comp_df.loc[best_idx]
 best_name = best_row["Model"]
-best_file = model_files[best_name]
 
-print("\n  " + "-" * 70)
-print(f"  {'Model':<30} {'Test_RMSE':>14} {'Test_MAE':>14} {'Test_R2':>10}")
-print("  " + "-" * 70)
+print("\n  " + "-" * 86)
+print(f"  {'Model':<28} {'CV_RMSE':>12} {'Test_RMSE':>12} {'Test_MAE':>12} {'Test_R2':>9} {'MAPE_%':>8}")
+print("  " + "-" * 86)
 for _, r in comp_df.iterrows():
-    mark = " ★" if r["Terbaik"] == "★" else "  "
-    print(f"{mark}{r['Model']:<28} {r['Test_RMSE']:>14,.2f} "
-          f"{r['Test_MAE']:>14,.2f} {r['Test_R2']:>10.4f}")
-print("  " + "-" * 70)
+    mark = "★ " if r["Terbaik"] == "★" else "  "
+    print(f"{mark}{r['Model']:<28} {r['CV_RMSE']:>12,.2f} {r['Test_RMSE']:>12,.2f} "
+          f"{r['Test_MAE']:>12,.2f} {r['Test_R2']:>9.4f} {r['Test_MAPE_%']:>8.2f}")
+print("  " + "-" * 86)
 
+# Pemenang tiap metrik (transparansi: metrik bisa memberi pemenang berbeda)
+winners = []
+for col, better in [("CV_RMSE", "min"), ("Test_MAE", "min"), ("Test_RMSE", "min"),
+                    ("Test_R2", "max"), ("Test_MAPE_%", "min")]:
+    idx = comp_df[col].idxmin() if better == "min" else comp_df[col].idxmax()
+    winners.append({"Metrik": col, "Model_terbaik": comp_df.loc[idx, "Model"],
+                    "Nilai": comp_df.loc[idx, col]})
+win_df = pd.DataFrame(winners)
+win_df.to_csv(RESULTS_DIR / "pemenang_per_metrik.csv", index=False)
+print("\n  Pemenang per metrik (RMSE/R² peka terhadap outlier harga):")
+print(win_df.to_string(index=False))
+
+# best_model.joblib dibuat oleh modeling.py (kriteria CV). Tidak ditimpa di sini;
+# hanya dibuat bila belum ada.
 best_out = RESULTS_DIR / "best_model.joblib"
-shutil.copyfile(best_file, best_out)
-print(f"\n  ★  Model terbaik : {best_name}")
-print(f"     Test RMSE     : {best_row['Test_RMSE']:,.2f} INR")
-print(f"     Test MAE      : {best_row['Test_MAE']:,.2f} INR")
-print(f"     Test R²       : {best_row['Test_R2']:.4f}")
-print(f"     Test MAPE     : {best_row['Test_MAPE_%']:.2f}%")
-print(f"  → {best_out.name} diperbarui ← {best_file.name}")
+if not best_out.exists():
+    shutil.copyfile(model_files[best_name], best_out)
+    print(f"\n  → {best_out.name} dibuat ← {model_files[best_name].name}")
+else:
+    print(f"\n  → {best_out.name} tidak diubah (dibuat oleh modeling.py)")
 
 # ─────────────────────────────────────────────────────────────
 # Grafik evaluasi
@@ -292,7 +309,7 @@ print("File yang dihasilkan:")
 print("  • results/modeling/model_evaluation.csv  ← metrik test (MAE, MSE, RMSE, R²)")
 print("  • results/modeling/model_comparison.csv  ← tabel perbandingan 3 model")
 print("  • results/modeling/prediksi_test.csv     ← prediksi vs aktual")
-print("  • results/modeling/best_model.joblib     ← model terbaik (Test RMSE)")
+print("  • results/modeling/pemenang_per_metrik.csv ← pemenang tiap metrik")
 print("  • results/modeling/figures/*.png         ← grafik evaluasi")
-print(f"\n★  Model terpilih: {best_name} (Test RMSE {best_row['Test_RMSE']:,.2f} INR)")
+print(f"\n★  Model terpilih (CV RMSE {best_row['CV_RMSE']:,.2f} INR): {best_name}")
 print("\nLangkah selanjutnya: Feature Analysis (feature importance) bila diperlukan.")
